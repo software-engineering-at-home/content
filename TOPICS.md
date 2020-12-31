@@ -18,6 +18,12 @@ The kind of content this organisation aims to cover:
 
 As content is written, edited, and produced - this index will grow to be filled out with links helping the audience find content.
 
+## Channel Overview
+
+Topics to do with the operation of the YouTube channel, including introductions, annoucements, updates, and the like.
+
+- [Channel Introduction](./channel/000-Channel-Introduction.md)
+
 ## Agile Delivery Practices
 
 Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation - and how you can take on these roles at home in your own projects.
