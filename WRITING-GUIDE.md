@@ -21,6 +21,6 @@ The following writing guide is a structured guide to producing and writing conte
 
 - [ ] The topic has a written How section - how will the audience learn about the topic?
 
-## Supportting Material
+## Supporting Material
 
 - [ ] The topic has at minimum one diagram supporting the explanation
