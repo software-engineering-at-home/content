@@ -21,4 +21,6 @@ This repo contains:
 
 ### Where next
 
-- Start writing a topic list... 
+See: 
+- [TOPICS](./TOPICS.md) for a list of planned content
+- [WRITING-GUIDE](./WRITING-GUIDE.md) for prompts on how to get started with content
