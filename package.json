@@ -4,6 +4,7 @@
   "description": "Content to teach the world about software, programming, and engineering topics of interest.",
   "main": "start.js",
   "scripts": {
+    "start": "node ./",
     "test": "echo \"No tests yet for this repo; see README.md\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/software-engineering-at-home/content/issues"
   },
-  "homepage": "https://github.com/software-engineering-at-home/content#readme"
+  "homepage": "https://github.com/software-engineering-at-home/content#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
