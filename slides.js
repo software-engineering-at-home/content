@@ -1,7 +1,7 @@
 function getParamsFromUrl(url) {
   const decodedUrl = decodeURI(url)
   if (typeof decodedUrl === 'string') {
-    let paramStr = (decodedUrl.split('?')[1] || '')
+    let paramStr = (decodedUrl.split('?')[1] || '').split('#')[0]
     let pairs = paramStr.split('&').map(kvp => kvp.split('='))
     let params = pairs.reduce((acc, [key, value]) => {
       if (key) {
@@ -13,8 +13,19 @@ function getParamsFromUrl(url) {
   }
 }
 
-const slideshow = remark.create({
-  sourceUrl: './SLIDE-TEMPLATE.md'
-})
+function startSlides() {
+  const params = getParamsFromUrl(document.location)
+  const { view } = params
 
-console.log('Params', getParamsFromUrl(document.location))
+  const sourceUrl = view || 'SLIDE-TEMPLATE.md'
+  const slideshow = remark.create({ sourceUrl })
+
+  console.log('Params:', params)
+  console.log('Started remark slideshow:', slideshow, 'from', sourceUrl)
+}
+
+if (typeof remark !== undefined) {
+  startSlides()
+} else {
+  console.log('Remark library not available on DOM; could not start slides.')
+}

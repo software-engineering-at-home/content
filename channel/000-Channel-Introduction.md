@@ -1,10 +1,14 @@
-# Channel Introduction
+class: title, center, bottom
 
-## Why
+# Channel Introduction January 2021
+
+???
+
+### Why
 
 Introduce myself to the future audience, and give people an overview of the type of content to expect to find on the channel.
 
-## What
+### What
 
 By the end of the topic the audience should have a clear idea of:
 - The channel title
@@ -13,12 +17,12 @@ By the end of the topic the audience should have a clear idea of:
 - The content and topics available
 - That this is a growth project that will develop over time
 
-## How
+### How
 
 - By reading the details in this topic 
 - By watching a face to camera video on youtube
 
-## Supporting Material
+### Supporting Material
 
 - [ ] Slide deck
 - [ ] Introduction to the onscreen branding
@@ -26,9 +30,13 @@ By the end of the topic the audience should have a clear idea of:
 - [ ] Onscreen Twitter feed - with call to action to follow
 - [ ] Reminder about YouTube channel
 
+---
+
 ## Intro
 
 - [ ] Written intro for topic
+
+---
 
 ## Content
 
@@ -37,6 +45,8 @@ By the end of the topic the audience should have a clear idea of:
 - [ ] Explain the story - explain how the story links back to the premise
 - [ ] Extract the value - identify the keys points from the story that explain the topic
 - [ ] Practical advice - add personal advice and guidance on top of the story
+
+---
 
 ## Conclusion
 
