@@ -14,7 +14,7 @@ function getParamsFromUrl(url) {
 }
 
 const slideshow = remark.create({
-  sourceUrl: '/SLIDE-TEMPLATE.md'
+  sourceUrl: './SLIDE-TEMPLATE.md'
 })
 
 console.log('Params', getParamsFromUrl(document.location))
