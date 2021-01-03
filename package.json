@@ -1,0 +1,20 @@
+{
+  "name": "content",
+  "version": "1.0.0",
+  "description": "Content to teach the world about software, programming, and engineering topics of interest.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"No tests yet for this repo; see README.md\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/software-engineering-at-home/content.git"
+  },
+  "keywords": [],
+  "author": "Software Engineering at Home",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/software-engineering-at-home/content/issues"
+  },
+  "homepage": "https://github.com/software-engineering-at-home/content#readme"
+}
