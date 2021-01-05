@@ -17,7 +17,7 @@ function startSlides() {
   const params = getParamsFromUrl(document.location)
   const { view } = params
 
-  const sourceUrl = view || 'SLIDE-TEMPLATE.md'
+  const sourceUrl = view || 'TOPICS.md'
   const slideshow = remark.create({ sourceUrl })
 
   console.log('Params:', params)

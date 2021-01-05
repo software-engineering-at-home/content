@@ -1,34 +1,61 @@
-# Software Engineering at Home Topics
+class: title, center, bottom
 
-<img src="https://software-engineering-at-home.github.io/branding/graphics/seath-logo.svg" alt="Software Engineering at Home Logo" height="256" align="right" />
+# Topics
 
-The kind of content this organisation aims to cover:
+Discover the breadth and depth of content available through Software Engineering at Home.
+
+???
+
+This content is formatted for slides; to launch the viewer please follow this  link:
+- https://software-engineering-at-home.github.io/content/slides.html
+
+---
+
+class: intro
+
+## Topic Index
+
+General content:
+- Channel Overview
+
+Content topics are grouped by specialisms:
 - Agile Delivery Practices
 - Architecture
+- Cloud Based Infrastructure
 - Computer Science
+- Monitoring and Alerts
 - Organizational Structures
 - Programming
-- Software Delivery Lifecycle
-- Team Building
-- Software Testing
+- Programming Languages
 - Service Design
-- Monitoring and Alerts
-- Cloud Based Infrastructure
-- ...
+- Software Delivery Lifecycle
+- Software Testing
+- Team Building
 
-As content is written, edited, and produced - this index will grow to be filled out with links helping the audience find content.
+???
+
+As content is written, edited, and produced - this index will grow to be filled out with links helping the audience find content. New specialisms can be added as needed to the list above, and then populated in the sub-sections below.
+
+---
 
 ## Channel Overview
 
-Topics to do with the operation of the YouTube channel, including introductions, annoucements, updates, and the like.
+Helping the audience understand the content available, and support the operation of the YouTube channel, including introductions, annoucements, updates, and the like.
+
+### Topics
 
 - [Channel Introduction](./channel/000-Channel-Introduction.md)
+- [Topic Overview for 2021](./channel/001-Topic-Overview-for-2021.md)
+- ...
+
+---
 
 ## Agile Delivery Practices
 
 Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation - and how you can take on these roles at home in your own projects.
 
 ### Topics
+
 - Scrum
 - Kanban
 - Make your queues visible
@@ -41,9 +68,13 @@ Ways of working; processess and practices that would be considered agile, and ho
 - Shift left
 - ...
 
+---
+
 ## Architecture
 
 Ways of assesssing, structuring, and designing software so that programs (no matter how large, or small) can be made simple, or simpler from chaotic, complex, or complicated forms.
+
+### Topics
 
 - Architecture for programmers
 - Drawing diagrams
@@ -51,9 +82,28 @@ Ways of assesssing, structuring, and designing software so that programs (no mat
 - Data lakes
 - ...
 
+---
+
+## Cloud Based Infrastructure
+
+Use of services hosted on the internet to build software systems; instead of trying to roll and manage physical hardware and managing operating systems.
+
+### Topics
+
+- AWS
+- Google Cloud
+- Microsoft Azure
+- Infrastructure as code
+- Going serverless
+- ...
+
+---
+
 ## Computer Science
 
 Where maths and electronics meet; computer science emerges; there are a huge number of relevant topics in computer science that can be applied to programming and software engineer.
+
+### Topics
 
 - Algorithms
 - Data Structures
@@ -65,9 +115,13 @@ Where maths and electronics meet; computer science emerges; there are a huge num
 - CPU Threads
 - ...
 
+---
+
 ## Organizational Structures 
 
-Big and small organizations structure themselves in different ways to get the most out of their employees; its worth talking about different org structures and reflecting on how you might use that knowledge in the home environment with your family and community.
+Big and small organizations structure themselves in different ways to get the most out of their employees; its worth talking about different org structures and reflecting on how to use that knowledge in your day to day life.
+
+### Topics
 
 - The org chart
 - Line of reporting
@@ -76,16 +130,15 @@ Big and small organizations structure themselves in different ways to get the mo
 - Teams vs Specialists
 - ...
 
+---
+
 ## Programming
 
-Coding is at the core of automation - to be able to take an idea, a process, and then automate it probably in large part requires writing code, or programming.
+Abstract symbol manipulation is at the core of automation - to be able to take an idea, a process, and then automate it often requires writing code - programming is a vast field of a approaches which explores how we interact with computers through code.
 
-- JavaScript basics
+### Topics
+
 - Callbacks, Promises, and Async await
-- C++ basics
-- .NET basics
-- Java basics
-- Java !== JavaScript
 - Program structure
 - Code architecture
 - Object Orientated Programming
@@ -99,9 +152,30 @@ Coding is at the core of automation - to be able to take an idea, a process, and
 - Creating RESTFul APIs
 - ...
 
+---
+
+## Programming Languages
+
+Specific topics related to named programming languages.
+
+### Topics
+
+- .NET basics
+- Bash basics
+- C++ basics
+- Java basics
+- JavaScript basics
+- Java !== JavaScript
+- Python basics
+- ...
+
+---
+
 ## Software Delivery Lifecycle
 
 The process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of our code base while managing technical debt.
+
+### Topics
 
 - There is an infinite amount of value to be created
 - Continuous Integration
@@ -116,9 +190,13 @@ The process of releasing value - from code to working software, integrating real
 - Non-functional requirements
 - ...
 
+---
+
 ## Team Building
 
 How to you negotiate to bring together a group of people under a combined goal? What distractions to people face? Team building is an important aspect of supporting and maintaining large software systems. 
+
+### Topics
 
 - Vision and Goals
 - Quarterly objectives and key results (OKRs)
@@ -131,9 +209,13 @@ How to you negotiate to bring together a group of people under a combined goal? 
 - Roles and responsibilities
 - ...
 
+---
+
 ## Software Testing
 
 Validating that software is correct is large and complex field; the more time you spend on it, the more issues you can find - but writing automated tests can crystalize a project and make it hard to change. 
+
+### Topics
 
 - Why test?
 - Unit testing
@@ -149,9 +231,13 @@ Validating that software is correct is large and complex field; the more time yo
 - When to automate testing
 - ...
 
+---
+
 ## Service Design
 
 Next level software development is about services; products are built and sold, but services are timely and ongoing. We now have the knowledge and ability to build autoamted systems that respond to events and change across time. How does service based design influence how we build and design software?
+
+### Topics
 
 - Products vs Services
 - Good Services
@@ -161,7 +247,13 @@ Next level software development is about services; products are built and sold, 
 - Measuring the success of a service
 - ...
 
+---
+
 ## Monitoring and Alerts
+
+Good feedback loops are formed by watching the software system you're interacting with - monitoring and alerting are two ways which you can gain a live understanding of your system - it takes time and effort to build good monitoring, which can start right at the begginning of a project if done well.
+
+### Topics
 
 - Why monitor
 - Why setup alerts
@@ -175,11 +267,19 @@ Next level software development is about services; products are built and sold, 
 - Measure what matters
 - ...
 
-## Cloud Based Infrastructure
+---
 
-- AWS
-- Google Cloud
-- Microsoft Azure
-- Infrastructure as code
-- Going serverless
-- ...
+class: conclusion
+
+## Conclusion
+
+Well done for making it to the end... things you can do next:
+
+- Watch the channel introduction
+- Watch the topic summary for 2021
+- Choose a specialism that you're interested in
+- Start learning about topics that catch your eye
+- Give feedback by leaving comments
+- Subscribe over at patreon to support and grow the content
+
+Good luck for the year ahead, I hope you learn lots~

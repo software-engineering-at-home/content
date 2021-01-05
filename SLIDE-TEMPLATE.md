@@ -1,21 +1,31 @@
 
-class: center, middle
+class: title, center, bottom
 
-# Slide Templates
+# Slide Template
 
 ---
 
-# Topic Categories
+class: intro
 
-1. Channel Annoucements
-2. Agile Delivery Practices
-3. Architecture
-4. Computer Science
-5. Organizational Structures
-6. Programming
-7. Software Delivery Lifecycle
-8. Team Building
-9. Software Testing
-10. Service Design
-11. Monitoring and Alerts
-12. Cloud Based Infrastructure
+## Intro
+
+- ☑️ Write an intro for this topic
+
+---
+
+## Content
+
+- ☑️ Set the premise - what's the topic, refer to the Why?
+- ☑️ Tell a story - build a model around the premise using a real world story - either from personal experience or research.
+- ☑️ Explain the story - explain how the story links back to the premise
+- ☑️ Extract the value - identify the keys points from the story that explain the topic
+- ☑️ Practical advice - add personal advice and guidance on top of the story
+
+---
+
+class: conclusion
+
+## Conclusion
+
+- ☑️ Repeat the presmise, the key points, and the practice advice to close out the video
+- ☑️ Like, subscribe, and share - support on patreon 
