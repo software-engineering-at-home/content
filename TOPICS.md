@@ -16,27 +16,29 @@ class: intro
 ## Topic Index
 
 General content:
-- Channel Overview
+- [Channel Overview](#channel-overview)
 
 Content topics are grouped by specialisms:
-- Agile Delivery Practices
-- Architecture
-- Cloud Based Infrastructure
-- Computer Science
-- Monitoring and Alerts
-- Organizational Structures
-- Programming
-- Programming Languages
-- Service Design
-- Software Delivery Lifecycle
-- Software Testing
-- Team Building
+- [Agile Delivery Practices](#agile-delivery-practices)
+- [Architecture](#architecture)
+- [Cloud Based Infrastructure](#cloud-based-infrastructure)
+- [Computer Science](#computer-science)
+- [Monitoring and Alerts](#monitoring-and-alerts)
+- [Organizational Structures](#organizational-structures)
+- [Programming](#programming)
+- [Programming Languages](#programming-languages)
+- [Service Design](#service-design)
+- [Software Delivery Lifecycle](#software-delivery-lifecycle)
+- [Software Testing](#software-testing)
+- [Team Building](#team-building)
 
 ???
 
 As content is written, edited, and produced - this index will grow to be filled out with links helping the audience find content. New specialisms can be added as needed to the list above, and then populated in the sub-sections below.
 
 ---
+
+name: channel-overview
 
 ## Channel Overview
 
@@ -49,6 +51,8 @@ Helping the audience understand the content available, and support the operation
 - ...
 
 ---
+
+name: agile-delivery-practices
 
 ## Agile Delivery Practices
 
