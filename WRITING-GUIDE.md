@@ -17,7 +17,7 @@ Consistent, interesting, and digestable information. This structured writing gui
 
 To get started, make sure your idea has a place in the [TOPICS.md](TOPICS.md) index - all that's needed is a title on a new line; find the right specialism to group it under - make a new specialism if breaking new ground. This is a great stage to save, commit, and push the change up to the public repo.
 
-Next, when you're ready, make a markdown file from [SLIDE-TEMPLATE.md](SLIDE-TEMPLATE.md); don't worry about filling the details at this stage.
+Next, when you're ready, make a markdown file from [WRITING-TEMPLATE.md](WRITING-TEMPLATE.md); don't worry about filling the details at this stage.
 
 Finally, link to your new markdown file from [TOPICS.md](TOPICS.md) to show that you're working on it.
 
@@ -26,7 +26,7 @@ Finally, link to your new markdown file from [TOPICS.md](TOPICS.md) to show that
 ### Checklist
 
 - ☑️ Content idea added to TOPICS under a specialism
-- ☑️ Markdown file created in sub-folder using SLIDE-TEMPLATE.md
+- ☑️ Markdown file created in sub-folder using WRITING-TEMPLATE.md
 - ☑️ Link to new markdown file from topic index
 
 ---
