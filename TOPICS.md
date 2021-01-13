@@ -56,7 +56,7 @@ name: agile-delivery-practices
 
 ## Agile Delivery Practices
 
-Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation - and how you can take on these roles at home in your own projects.
+Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation.
 
 ### Topics
 
@@ -121,9 +121,29 @@ Where maths and electronics meet; computer science emerges; there are a huge num
 
 ---
 
+## Monitoring and Alerts
+
+Good feedback loops are formed by watching the software system you're interacting with - monitoring and alerting are two ways which you can gain a live understanding of your system.
+
+### Topics
+
+- Why monitor
+- Why setup alerts
+- Creating good alerts
+- Triaging issues
+- Monitoring tools
+- Creating graphs and charts
+- Inspecting data over time
+- Good dashboards
+- Use your log data wisely
+- Measure what matters
+- ...
+
+---
+
 ## Organizational Structures 
 
-Big and small organizations structure themselves in different ways to get the most out of their employees; its worth talking about different org structures and reflecting on how to use that knowledge in your day to day life.
+Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life.
 
 ### Topics
 
@@ -138,7 +158,7 @@ Big and small organizations structure themselves in different ways to get the mo
 
 ## Programming
 
-Abstract symbol manipulation is at the core of automation - to be able to take an idea, a process, and then automate it often requires writing code - programming is a vast field of a approaches which explores how we interact with computers through code.
+Programming is a vast field of a approaches which explores how we interact with computers through code; everything from abstract symbol manipulation, data structures, APIs, algorithms, linting, and code quality. 
 
 ### Topics
 
@@ -160,8 +180,8 @@ Abstract symbol manipulation is at the core of automation - to be able to take a
 
 ## Programming Languages
 
-Specific topics related to named programming languages.
-
+Specific topics related to named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use.
+ 
 ### Topics
 
 - .NET basics
@@ -177,7 +197,7 @@ Specific topics related to named programming languages.
 
 ## Software Delivery Lifecycle
 
-The process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of our code base while managing technical debt.
+The process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt.
 
 ### Topics
 
@@ -198,7 +218,7 @@ The process of releasing value - from code to working software, integrating real
 
 ## Team Building
 
-How to you negotiate to bring together a group of people under a combined goal? What distractions to people face? Team building is an important aspect of supporting and maintaining large software systems. 
+How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems. 
 
 ### Topics
 
@@ -217,7 +237,7 @@ How to you negotiate to bring together a group of people under a combined goal? 
 
 ## Software Testing
 
-Validating that software is correct is large and complex field; the more time you spend on it, the more issues you can find - but writing automated tests can crystalize a project and make it hard to change. 
+Validating that software is correct is a large and complex field; the more time you spend on it, the more issues you can find - automation is important, but so is test strategy, and resource allocation.
 
 ### Topics
 
@@ -239,7 +259,7 @@ Validating that software is correct is large and complex field; the more time yo
 
 ## Service Design
 
-Next level software development is about services; products are built and sold, but services are timely and ongoing. We now have the knowledge and ability to build autoamted systems that respond to events and change across time. How does service based design influence how we build and design software?
+Next level software development is about services; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
 
 ### Topics
 
@@ -249,26 +269,6 @@ Next level software development is about services; products are built and sold, 
 - Separating software tools from the services they provide
 - Service Catalogues
 - Measuring the success of a service
-- ...
-
----
-
-## Monitoring and Alerts
-
-Good feedback loops are formed by watching the software system you're interacting with - monitoring and alerting are two ways which you can gain a live understanding of your system - it takes time and effort to build good monitoring, which can start right at the begginning of a project if done well.
-
-### Topics
-
-- Why monitor
-- Why setup alerts
-- Creating good alerts
-- Triaging issues
-- Monitoring tools
-- Creating graphs and charts
-- Inspecting data over time
-- Good dashboards
-- Use your log data wisely
-- Measure what matters
 - ...
 
 ---
@@ -287,3 +287,5 @@ Well done for making it to the end... things you can do next:
 - Subscribe over at patreon to support and grow the content
 
 Good luck for the year ahead, I hope you learn lots~
+
+~keep an open mind, and be kind and patient with each other.
