@@ -18,7 +18,7 @@ class: intro
 General content:
 - [Channel Overview](#channel-overview)
 
-Content topics are grouped by specialisms:
+Content topics are grouped into specialisms:
 - [Agile Delivery Practices](#agile-delivery-practices)
 - [Architecture](#architecture)
 - [Cloud Based Infrastructure](#cloud-based-infrastructure)
@@ -31,6 +31,9 @@ Content topics are grouped by specialisms:
 - [Software Delivery Lifecycle](#software-delivery-lifecycle)
 - [Software Testing](#software-testing)
 - [Team Building](#team-building)
+
+And finally:
+- [Where next?](#where-next)
 
 ???
 
@@ -74,6 +77,8 @@ Ways of working; processess and practices that would be considered agile, and ho
 
 ---
 
+name: architecture
+
 ## Architecture
 
 Ways of assesssing, structuring, and designing software so that programs (no matter how large, or small) can be made simple, or simpler from chaotic, complex, or complicated forms.
@@ -87,6 +92,8 @@ Ways of assesssing, structuring, and designing software so that programs (no mat
 - ...
 
 ---
+
+name: cloud-based-infrastructure
 
 ## Cloud Based Infrastructure
 
@@ -102,6 +109,8 @@ Use of services hosted on the internet to build software systems; instead of try
 - ...
 
 ---
+
+name: computer-science
 
 ## Computer Science
 
@@ -120,6 +129,8 @@ Where maths and electronics meet; computer science emerges; there are a huge num
 - ...
 
 ---
+
+name: monitoring-and-alerts
 
 ## Monitoring and Alerts
 
@@ -141,6 +152,8 @@ Good feedback loops are formed by watching the software system you're interactin
 
 ---
 
+name: organizational-structures
+
 ## Organizational Structures 
 
 Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life.
@@ -155,6 +168,8 @@ Organizations structure themselves in different ways to get the most out of thei
 - ...
 
 ---
+
+name: programming
 
 ## Programming
 
@@ -178,6 +193,8 @@ Programming is a vast field of a approaches which explores how we interact with 
 
 ---
 
+name: programming-languages
+
 ## Programming Languages
 
 Specific topics related to named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use.
@@ -194,6 +211,8 @@ Specific topics related to named programming languages; for example how to get s
 - ...
 
 ---
+
+name: software-delivery-lifecycle
 
 ## Software Delivery Lifecycle
 
@@ -216,6 +235,8 @@ The process of releasing value - from code to working software, integrating real
 
 ---
 
+name: team-building
+
 ## Team Building
 
 How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems. 
@@ -234,6 +255,8 @@ How do you negotiate with others to bring a group of people together to share a 
 - ...
 
 ---
+
+name: software-testing
 
 ## Software Testing
 
@@ -257,6 +280,8 @@ Validating that software is correct is a large and complex field; the more time 
 
 ---
 
+name: service-design
+
 ## Service Design
 
 Next level software development is about services; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
@@ -274,8 +299,9 @@ Next level software development is about services; products are built and sold, 
 ---
 
 class: conclusion
+name: where-next
 
-## Conclusion
+## Where next?
 
 Well done for making it to the end... things you can do next:
 
