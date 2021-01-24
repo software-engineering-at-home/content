@@ -4,6 +4,9 @@ class: title, center, bottom
 
 ???
 
+This content is formatted for slides; to launch the viewer please follow this link:
+- https://software-engineering-at-home.github.io/content/slides.html?view=channel/000-Channel-Introduction.md
+
 ### Why
 
 Introduce myself to the future audience, and give people an overview of the type of content to expect to find on the channel.
