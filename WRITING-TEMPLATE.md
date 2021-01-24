@@ -3,6 +3,11 @@ class: title, center, bottom
 
 # Slide Template
 
+???
+
+This content is formatted for slides; to launch the viewer please follow this link:
+- https://software-engineering-at-home.github.io/content/slides.html?view=WRITING-TEMPLATE.md
+
 ---
 
 class: intro
