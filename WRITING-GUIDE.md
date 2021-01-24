@@ -3,6 +3,11 @@ class: title, center, bottom
 
 # Software Engineering at Home Writing Guide
 
+???
+
+This content is formatted for slides; to launch the viewer please follow this link:
+- https://software-engineering-at-home.github.io/content/slides.html?view=WRITING-GUIDE.md
+
 ---
 
 class: intro

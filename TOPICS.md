@@ -6,7 +6,7 @@ Discover the breadth and depth of content available through Software Engineering
 
 ???
 
-This content is formatted for slides; to launch the viewer please follow this  link:
+This content is formatted for slides; to launch the viewer please follow this link:
 - https://software-engineering-at-home.github.io/content/slides.html
 
 ---
