@@ -33,11 +33,17 @@ function rewriteMarkdownLinks(slide) {
   }
   rewriteLock = true
 
-  console.log('Rewriting markdown links to improve slide navigation:')
   const slidesAreaEl = document.getElementsByClassName('remark-slides-area')[0]
+
+  console.log('Rewriting markdown links to improve slide navigation:')
   const hrefEls = Array.from(slidesAreaEl.getElementsByTagName('a'))
   const rewrittenUrls = hrefEls.reduce(rewriteMarkdownLink, [])
   console.log('Found and rewrote:', rewrittenUrls.length, 'slide links in this presentation.')
+
+  console.log('Rewriting markdown images to improve slide presentation:')
+  const imgEls = Array.from(slidesAreaEl.getElementsByTagName('img'))
+  const rewrittenImages = imgEls.reduce(rewriteMarkdownImage, [])
+  console.log('Found and rewrote:', rewrittenImages.length, 'slide images in this presentation.')
 }
 
 function rewriteMarkdownLink(list, el) {
@@ -49,6 +55,24 @@ function rewriteMarkdownLink(list, el) {
     const slideViewerPath = `?view=${markdownPath}`
     // console.log('Rewriting', el, markdownPath, 'from', el.href, 'to', slideViewerPath)
     el.href = slideViewerPath
+    list.push(el)
+  }
+  return list
+}
+
+function rewriteMarkdownImage(list, el) {
+  const params = getParamsFromUrl(document.location)
+  const { view } = params
+  const [basePath] = view.split('/')
+
+  const pattern = /\/([A-z\d-/\.]+\.(svg|png|jpg))$/
+  const href = new URL(el.src)
+  const [,imagePath] = (href.pathname.match(pattern) || [])
+  const rewrittenAlready = href.pathname.includes('content/')
+  if (imagePath && !rewrittenAlready) {
+    const slideViewerPath = `${basePath}/${imagePath}`
+    // console.log('Rewriting', el, imagePath, 'from', el.src, 'to', slideViewerPath)
+    el.src = slideViewerPath
     list.push(el)
   }
   return list
