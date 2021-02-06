@@ -27,7 +27,7 @@ By the end of the topic the audience should have a clear idea of:
 
 ### Supporting Material
 
-- [ ] Slide deck
+- [/] Slide deck
 - [ ] Introduction to the onscreen branding
 - [ ] Onscreen topic list
 - [ ] Onscreen Twitter feed - with call to action to follow
@@ -37,11 +37,21 @@ By the end of the topic the audience should have a clear idea of:
 
 ## Intro
 
-- [ ] Written intro for topic
+Hi and welcome to the Software Engineering at Home channel. My name is John and I'm a trained Software Engineer who's worked for the past 20 years either as a programmer, developer, or software engineer. I'm passionate about the field of Software Engineering; both from a hobbiest and professional perspective. I think engineering is a great mindset to have and there are lots of topics I'd like to explore through this channel.
+
+Through my career so far I've had chance to work as a programmer, software team lead, delivery manager, and people manager. I've worked across the English speaking world for British, Australian and American companies, and have developed a sense for how big and small organisations work.
+
+Over time I'll be growing the channel with new topics- many of which have been scoped out already as part of the planning for this channel. 
 
 ---
 
-## Content
+class: diagram
+
+## Content to Expect
+
+![Planned Specialisms for Intro](./diagrams/planned-specialisms-for-intro.drawio.svg)
+
+???
 
 - [ ] Set the premise - what's the topic, refer to the Why?
 - [ ] Tell a story - build a model around the premise using a real world story - either from personal experience or research.
