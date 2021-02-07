@@ -65,8 +65,16 @@ class: diagram
 
 ---
 
-## Conclusion
+## Like, Subcribe, and Patreon
 
-- [ ] Repeat the presmise, the key points, and the practice advice to close out the video
-- [ ] Like, subscribe, and share - support on patreon 
+???
+
+- [x] Repeat the presmise, the key points, and the practice advice to close out the video
+- [x] Like, subscribe, and share - support on patreon 
+
+So welcome again to the Software Engineering at Home channel - I'm John, I've got a wealth of experience as a programmer, lead software engineer, and delivery manager that I'd like to share.
+
+I hope you'll stay around for the content I'll be producing - the content will grow and develop over time.
+
+So, if you liked this video - please subscribe - support the channel by subscribing on Patreon for early access to content; where you can ask questions and get answers - and finally let me know in the comments which topics you're most interested in.
 
