@@ -22,6 +22,6 @@ This repo contains:
 ### Where next
 
 See: 
-- [Slide Viewer](./slides.html) to navigate the content as presentable slides
+- [Slide Viewer](https://software-engineering-at-home.github.io/content/slides.html) to navigate the content as presentable slides
 - [TOPICS](./TOPICS.md) for a list of planned content
 - [WRITING-GUIDE](./WRITING-GUIDE.md) for prompts on how to get started with content
