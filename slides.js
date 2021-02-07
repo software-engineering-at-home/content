@@ -47,7 +47,7 @@ function rewriteMarkdownLinks(slide) {
 }
 
 function rewriteMarkdownLink(list, el) {
-  const pattern = /\/([A-z\d-/]+.md)$/
+  const pattern = /(\/[A-z\d-/]+.md)$/
   const href = new URL(el.href)
   const [,markdownPath] = (href.pathname.match(pattern) || [])
   const rewrittenAlready = href.pathname.includes('?view=')
@@ -63,12 +63,14 @@ function rewriteMarkdownLink(list, el) {
 function rewriteMarkdownImage(list, el) {
   const params = getParamsFromUrl(document.location)
   const { view } = params
-  const [basePath] = view.split('/')
+  const contentPath = view.split('/')
+  contentPath.pop()
+  const basePath = contentPath.join('/')
 
-  const pattern = /\/([A-z\d-/\.]+\.(svg|png|jpg))$/
+  const pattern = /content\/([A-z\d-/\.]+\.(svg|png|jpg))$/
   const href = new URL(el.src)
   const [,imagePath] = (href.pathname.match(pattern) || [])
-  const rewrittenAlready = href.pathname.includes('content/')
+  const rewrittenAlready = href.pathname.includes(basePath)
   if (imagePath && !rewrittenAlready) {
     const slideViewerPath = `${basePath}/${imagePath}`
     // console.log('Rewriting', el, imagePath, 'from', el.src, 'to', slideViewerPath)
