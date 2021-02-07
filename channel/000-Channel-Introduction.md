@@ -63,6 +63,8 @@ class: diagram
 - [ ] Extract the value - identify the keys points from the story that explain the topic
 - [ ] Practical advice - add personal advice and guidance on top of the story
 
+The types of content I'll be producing on this channel fall into twelve main categories which I'm calling specialisms. Each specialism could be considered a field in itself - but knowing something about all these areas makes me a much stronger engineer. 
+
 ---
 
 ## Like, Subcribe, and Patreon
