@@ -35,7 +35,11 @@ By the end of the topic the audience should have a clear idea of:
 
 ---
 
-## Intro
+## Who am I?
+
+![Who am I with photo and digital sketch](./diagrams/who-am-i.drawio.svg)
+
+???
 
 Hi and welcome to the Software Engineering at Home channel. My name is John and I'm a trained Software Engineer who's worked for the past 20 years either as a programmer, developer, or software engineer. I'm passionate about the field of Software Engineering; both from a hobbiest and professional perspective. I think engineering is a great mindset to have and there are lots of topics I'd like to explore through this channel.
 
