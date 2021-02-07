@@ -16,7 +16,7 @@ class: intro
 ## Topic Index
 
 General content:
-- [Channel Overview](#channel-overview)
+- [Channel Overview](#channel-overview), or skip to [Where next?](#where-next)
 
 Content topics are grouped into specialisms:
 - [Agile Delivery Practices](#agile-delivery-practices)
@@ -24,16 +24,13 @@ Content topics are grouped into specialisms:
 - [Cloud Based Infrastructure](#cloud-based-infrastructure)
 - [Computer Science](#computer-science)
 - [Monitoring and Alerts](#monitoring-and-alerts)
-- [Organizational Structures](#organizational-structures)
+- [Organisational Structures](#Organisational-structures)
 - [Programming](#programming)
 - [Programming Languages](#programming-languages)
 - [Service Design](#service-design)
 - [Software Delivery Lifecycle](#software-delivery-lifecycle)
 - [Software Testing](#software-testing)
 - [Team Building](#team-building)
-
-And finally:
-- [Where next?](#where-next)
 
 ???
 
@@ -152,9 +149,9 @@ Good feedback loops are formed by watching the software system you're interactin
 
 ---
 
-name: organizational-structures
+name: Organisational-structures
 
-## Organizational Structures 
+## Organisational Structures 
 
 Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life.
 
@@ -189,7 +186,6 @@ Programming is a vast field of a approaches which explores how we interact with 
 - JavaScript is a synchronous language
 - Asynchronous applications using JavaScript
 - Creating RESTFul APIs
-- ...
 
 ---
 
@@ -276,7 +272,6 @@ Validating that software is correct is a large and complex field; the more time 
 - TDD and BDD the same thing?
 - When to manually test
 - When to automate testing
-- ...
 
 ---
 
@@ -314,4 +309,4 @@ Well done for making it to the end... things you can do next:
 
 Good luck for the year ahead, I hope you learn lots~
 
-~keep an open mind, and be kind and patient with each other.
+~keep an open mind; be kind and patient with each other.
