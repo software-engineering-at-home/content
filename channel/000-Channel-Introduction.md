@@ -1,8 +1,10 @@
 class: title, center, bottom
 
-# Channel Introduction January 2021
+# Channel Introduction for 2021
 
 ???
+
+This is the Software Engineering at Home Channel Introduction for 2021.
 
 This content is formatted for slides; to launch the viewer please follow this link:
 - https://software-engineering-at-home.github.io/content/slides.html?view=channel/000-Channel-Introduction.md
@@ -27,11 +29,11 @@ By the end of the topic the audience should have a clear idea of:
 
 ### Supporting Material
 
-- [/] Slide deck
-- [ ] Introduction to the onscreen branding
-- [ ] Onscreen topic list
-- [ ] Onscreen Twitter feed - with call to action to follow
-- [ ] Reminder about YouTube channel
+- [x] Slide deck
+- [x] Introduction to the onscreen branding
+- [x] Onscreen topic list
+- [?] Onscreen Twitter feed - with call to action to follow
+- [?] Reminder about YouTube channel
 
 ---
 
@@ -60,12 +62,6 @@ class: diagram
 
 ???
 
-- [/] Set the premise - what's the topic, refer to the Why?
-- [ ] Tell a story - build a model around the premise using a real world story - either from personal experience or research.
-- [ ] Explain the story - explain how the story links back to the premise
-- [ ] Extract the value - identify the keys points from the story that explain the topic
-- [ ] Practical advice - add personal advice and guidance on top of the story
-
 The types of content I'll be producing on this channel fall into twelve main categories which I'm calling specialisms. Each specialism could be considered a field in itself - and will contain multiple topics.
 
 For this summary; I've grouped the specialisms into three areas:
@@ -84,6 +80,14 @@ Each specialism will have a number of topics which I've sketched out over in the
 
 These are all areas I've grown fond of as part of working in the Software Industry over the course of 20 years. As I work through the content production process I'm hoping you'll be along to watch, and read, and ask me questions in the comments.
 
+### Writing Checklist
+
+- [x] Set the premise - what's the topic, refer to the Why?
+- [?] Tell a story - build a model around the premise using a real world story - either from personal experience or research.
+- [?] Explain the story - explain how the story links back to the premise
+- [?] Extract the value - identify the keys points from the story that explain the topic
+- [?] Practical advice - add personal advice and guidance on top of the story
+
 ---
 
 class: conclusion
@@ -98,12 +102,9 @@ name: like-share-and-support
 - Support at Patreon: [SoftwareEngineeringAtHome](https://www.patreon.com/SoftwareEngineeringAtHome)
 - Email questions to: [software@mkv25.net](mailto:software@mkv25.net)
 
-~keep an open mind; be kind and patient with each other.
+~keep an open mind, and be kind to each other.
 
 ???
-
-- [/] Repeat the presmise, the key points, and the practice advice to close out the video
-- [/] Like, subscribe, and share - support on patreon 
 
 So welcome again to the Software Engineering at Home channel - I'm John, I've got a wealth of experience as a programmer, lead software engineer, and delivery manager that I'd like to share.
 
@@ -111,3 +112,9 @@ I hope you'll stay around for the content I'll be producing - the content will g
 
 So, if you liked this video - please subscribe - support the channel by subscribing on Patreon for early access to content; where you can ask questions and get answers - and finally let me know in the comments which topics you're most interested in.
 
+I'm still working on tag lines, but for now- keep an open mind, and be kind to each other.
+
+### Writing Checklist
+
+- [/] Repeat the presmise, the key points, and the practical advice to close out the video
+- [/] Like, subscribe, and share - support on patreon 

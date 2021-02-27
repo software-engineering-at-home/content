@@ -52,5 +52,5 @@ Work in progress...
 
 ???
 
-- ☑️ Repeat the presmise, the key points, and the practice advice to close out the video
+- ☑️ Repeat the presmise, the key points, and the practical advice to close out the video
 - ☑️ Like, subscribe, and share - support on patreon 
