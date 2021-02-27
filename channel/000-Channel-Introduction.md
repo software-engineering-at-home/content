@@ -66,19 +66,52 @@ The types of content I'll be producing on this channel fall into twelve main cat
 
 For this summary; I've grouped the specialisms into three areas:
 
-- Organisation and Project Goals
+- Organisations and Project Goals
 - Software and Service Architectures
 - Programming and Testing
 
+Each specialism contains a number of topics which I've sketched out over in the Software Engineering at Home github pages - over time each topic will end up with a dedicated write up, video, and eventually course material that you can follow at your own pace.
+
+These are all areas I've grown fond of as part of working in the Software Industry over the course of 20 years. As I work through the content production process I'm hoping you'll be along to watch, and read, and ask me questions in the comments.
+
+---
+
+name: organisations-and-project-goals
+class: diagram
+
+## Content to Expect
+
+![Organisations and Project Goals for Intro](./diagrams/organisations-and-project-goals.drawio.svg)
+
+???
+
 In Organisation and Project goals I've chosen the specialisms of Agile Delivery Practices, Organisational Structures, Service Design, and Team Building. These specialisms will let me explore how teams of people approach shared goals, and how at the personal and interpersonal level you can organise yourself and the way you approach meaningful work.
+
+---
+
+name: software-and-service-architectures
+class: diagram
+
+## Content to Expect
+
+![Software and Service Architectures for Intro](./diagrams/software-and-service-architectures.drawio.svg)
+
+???
 
 In Software and Service Architectures I've chosen the specialisms of Architecture, Cloud Based Infrastructure, Monitoring and Alerts, and the Software Delivery Lifecycle. These specialisms will let me explore how to bring multiple software systems together as a complete and technically valuable product or service. 
 
+---
+
+name: programming-and-testing
+class: diagram
+
+## Content to Expect
+
+![Programming and Testing for Intro](./diagrams/programming-and-testing.drawio.svg)
+
+???
+
 In Programming and Testing I've chosen the specialisms of Computer Science, Programming, Programming Languages, and Software Testing. These specialisms will let me explore the bare metal approaches to instructing computers to do useful work - and help as a foundation to layering the higher level goals of large software systems.
-
-Each specialism will have a number of topics which I've sketched out over in the Software Engineering at Home github pages - over time each topic will end up with a dedicated write up, video, and eventually course material that you can follow at your own pace.
-
-These are all areas I've grown fond of as part of working in the Software Industry over the course of 20 years. As I work through the content production process I'm hoping you'll be along to watch, and read, and ask me questions in the comments.
 
 ### Writing Checklist
 
