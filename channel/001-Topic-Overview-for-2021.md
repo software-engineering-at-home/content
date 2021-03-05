@@ -15,6 +15,10 @@ class: intro
 
 ## Intro
 
+Picture of Diving?
+
+???
+
 To get us started for 2021 - and by way of an extended channel introduction, lets dive into some of the topics that we'll be trying to cover this year. I'll go through each of the specialisms planned out on the Topics page and give some more context to the topics available. If you're interested in a specific topic; feel free to skip ahead in the video to that section. If there are specific topics you'd like to hear more about for future please let me know via feedback in the comments.
 
 If you've not already watched the channel introduction, that's a great place to learn about goals of the channel, and 
@@ -27,12 +31,17 @@ So with that out the way, lets dive in to the first specialism in alphabetic ord
 
 Agile Delivery Practices as a specialism covers ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation.
 
-The key topics in this field that I want to cover include general frameworks such as Scrum, Kanban, general techniques such as Prioritisation, Estimation, Retrospectives, Shift Left, and advanced techniques such as Make your queues visible, Culmulative Flow Diagrams, Cost of Delay, and Communcation. These are all topics that I think engineers can benefit from by enabling individuals to make confident decisions about how they organise work, identify value, and make decisions on delivering the most important work first.
-
+The key topics in this field that I want to cover include general frameworks such as Scrum, Kanban, general techniques such as Prioritisation, Estimation, Retrospectives, Shift Left, and advanced techniques such as Make your queues visible, Culmulative Flow Diagrams, Cost of Delay, and Communcation. These are all topics that I think engineers can benefit from by enabling individuals to make confident decisions about how they organise work, identify value, and make decisions on delivering the most valuable work first.
 
 ( ... repeat for each specialism ... )
 
 ???
+
+## Cloud Based Infrastructure
+
+Cloud Based Infrastructure as a specialism covers the major providers such as AWS, Google Cloud, Microsoft Azure - but what I really want to talk about is Infrastructure as Code, Going Serverless, and all the benefits of programmable network architectures. 
+
+The key topics in this field that I want to cover include Instance Compute, Lambdas, DNS Records...
 
 ## Content
 
