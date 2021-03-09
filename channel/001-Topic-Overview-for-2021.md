@@ -111,23 +111,79 @@ Disparate from "Programming Languages", programming as an approach, looks at key
 
 ---
 
-## Content
+## Programming Languages
 
-- ☑️ Set the premise - what's the topic, refer to the Why?
-- ☑️ Tell a story - build a model around the premise using a real world story - either from personal experience or research.
-- ☑️ Explain the story - explain how the story links back to the premise
-- ☑️ Extract the value - identify the keys points from the story that explain the topic
-- ☑️ Practical advice - add personal advice and guidance on top of the story
+Picture of language symbols?
+
+???
+
+Programming Languages are all different ways of providing instructions to computers. In this specialism I want to look at named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use.
+
+I'll try and cover languages I am most familiar with, but am happy to explore new programming languages to compare and contrast. Topics to explore include .NET, Bash, C++, Java, JavaScript, Java !== JavaScript, Python, and Regular Expressions.
+
+---
+
+## Software Delivery Lifecycle
+
+Picture of a value release production cycle?
+
+???
+
+The Software Delivery Lifecycle is the process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt. While I'm not a fan of the monica, it gives me an opportunity to talk about topics that cover a full range of tasks and skills that make up a modern approach to software maintenance.
+
+Key topics I want to talk about include "There is an infinite amount of value to be created", Continuous Integhration, Build Pipelines, Source Control, Your code as a crime scene, Pull requests, Code Reviews, Code as a product, Long term maintenance, Load testing, and Non-functional requirements.
+
+---
+
+## Team Building
+
+Picture of a team and a leader pointing the way?
+
+???
+
+In the Team Building specialism I want to explore how individuals negotiate with others to form a common goal. What brings people together? What inspires them to action? What gets people out of bed in the morning? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems.
+
+Key topics I want to explore include Vision and Goals, Quaterly Objectives and key results (OKRs), Strategy vs Tactics, Camaraderie / Comradery, Team Branding, Psychological Safety, Fun things, Team Health, Roles and responsibilities. 
+
+---
+
+## Software Testing
+
+Picture of test checklist, pass and fail?
+
+???
+
+In the Software Testing specialism I want to explore the large and complex field of validating software; the more time you spend testing, the more issues you can find - and while automation is important - so is test strategy, and resource allocation.
+
+There are many topics I want to explore from "Why test?", "When to manually test?", and "When to automate testing?"; cover topics such as Unit Testing, Integration testing, Schema tests, Contract testing, API testing, Smoke Tests... and approaches such as Test Driven Development, Behaviour Driven Development, "TDD and BDD being the same thing?", and "5 minute commits".
+
+---
+
+## Service Design
+
+Users and actions surrounding a software system?
+
+???
+
+Service Design as a specialism is an opportunity to talk about next level software development - services are what really matter; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
+
+The key topics I want to explore include "Product vs Services", Good Services, Supporting services with software, Separating software tools from the services they provide, Service Catalogues, and Measuring the success of a service.
 
 ---
 
 class: conclusion
 
-## Conclusion
+## Where next?
 
-Work in progress...
+- Like and Subscribe on Youtube: [Software Engineering at Home](https://www.youtube.com/channel/UCoGJPjY5_Fh222iTw3wRE-w)
+- Follow on Twitter: [@SoftwareAtHome](https://twitter.com/SoftwareAtHome)
+- Support at Patreon: [SoftwareEngineeringAtHome](https://www.patreon.com/SoftwareEngineeringAtHome)
+- Email questions to: [software@mkv25.net](mailto:software@mkv25.net)
 
 ???
 
-- ☑️ Repeat the presmise, the key points, and the practical advice to close out the video
-- ☑️ Like, subscribe, and share - support on patreon 
+If you've not already, check out the channel introduction for a brief hello from me. You've finished the topic overview for 2021, so you're probably ready to dig into a specialism that interests you. I'll be trying to make content for each specialism in order - so follow the Software Engineering at Home channel on YouTube, follow @SoftwareAtHome on Twitter, and you can also support the channel by subscribing on our Patreon for early access to content - and ask questions to get answers.
+
+Finally, please let me know in the comments which topics you're most interested in - and that will help me prioritise content.
+
+Keep an open mind, and be kind to each other.
