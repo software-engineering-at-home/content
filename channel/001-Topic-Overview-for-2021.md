@@ -171,6 +171,36 @@ The key topics I want to explore include "Product vs Services", Good Services, S
 
 ---
 
+## Software Delivery Lifecycle
+
+Picture of software delivery loop?
+
+???
+
+TODO: Write this summary
+
+---
+
+## Software Testing
+
+Picture of testing and quality?
+
+???
+
+TODO: Write this summary
+
+---
+
+## Team Building
+
+Picture of a team working together?
+
+???
+
+TODO: Write this summary
+
+---
+
 class: conclusion
 
 ## Where next?
