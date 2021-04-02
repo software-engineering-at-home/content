@@ -15,7 +15,7 @@ class: intro
 
 ## Intro
 
-Picture of Diving?
+![Clipart of Diving](./diagrams/clipart/diving.drawio.svg)
 
 ???
 
