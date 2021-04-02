@@ -29,7 +29,7 @@ So with that out the way, lets dive in to the first specialism in alphabetic ord
 
 ## Agile Delivery Practices
 
-Picture of fighter pilot out maneuvering another aircraft?
+![Clipart of Fighter Piliot](./diagrams/clipart/fighter-pilot.drawio.svg)
 
 ???
 
