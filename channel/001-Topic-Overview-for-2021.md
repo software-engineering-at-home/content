@@ -83,7 +83,7 @@ Picture of spy glass and alarm bell?
 
 I wanted to give a nod to the need to put monitors and alerts in around a software system - but as I began to list out the reasons - I realised more and more how important and complex this is - and how often monitoring is overlooked in the process of building software systems. Why monitor? Do you want to know how your software system is behaving? Or are you just trying to fill a work order and get paid?
 
-The key topics in this field include "Why monitor?", "Why setup alerts?", "Creating good alerts", the process of Triaging issues, Monitoring Tools, Creating graphs and charts, Inspecting Data over Time, Good Dashboards, Use your log data wiseley, and Measure what matters. There's a full time role for Data Scientists to take a long view on this data, but as a Software Engineer its imperative that you have this data at your finger tips to debug and diagnose issues within the software systems you're charged with maintaining. I'm excited to share my thinking with you on these topics.
+The key topics in this field include Why monitor?, Why setup alerts?, Creating good alerts, the process of Triaging issues, Monitoring Tools, Creating graphs and charts, Inspecting Data over Time, Good Dashboards, Use your log data wiseley, and Measure what matters. There's a full time role for Data Scientists to take a long view on this data, but as a Software Engineer its imperative that you have this data at your finger tips to debug and diagnose issues within the software systems you're charged with maintaining. I'm excited to share my thinking with you on these topics.
 
 ---
 
@@ -95,7 +95,7 @@ Picture of org chart?
 
 Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life.
 
-The key topics in this field include "The org chart", Line of reporting, Role of management in developing talent, Matrix organisations, and Teams vs Specialists. Even if you're not working in a team, organising your self and your workflow so that it can be tackled my multiple roles, may be a strategy to help set you up for success in the long run.
+The key topics in this field include The Org Chart, Line of Reporting, Role of Management in Developing Talent, Matrix Organisations, and Teams vs Specialists. Even if you're not working in a team, organising your self and your workflow so that it can be tackled my multiple roles, may be a strategy to help set you up for success in the long run.
 
 ---
 
@@ -107,7 +107,7 @@ Picture of code blocks interacting?
 
 Programming is a vast field of a approaches which explores how we interact with computers through code; everything from abstract symbol manipulation, data structures, APIs, algorithms, linting, and code quality.
 
-Disparate from "Programming Languages", programming as an approach, looks at key topics such as Program structure, Code architecture, Object Orientated Programming, Functional Programming, Non-functional side effects, Coupling and cohesion, and so on. There will be some overlap here between Computer Science as a specialism, but Programming should be more practical and less theoretical than the concepts presented elsewhere. 
+Disparate from the specialism Programming Languages, Programming as an Approach, looks at key topics such as Program structure, Code architecture, Object Orientated Programming, Functional Programming, Non-functional side effects, Coupling and cohesion, and so on. There will be some overlap here between Computer Science as a specialism, but Programming should be more practical and less theoretical than the concepts presented elsewhere. 
 
 ---
 
@@ -131,7 +131,31 @@ Picture of a value release production cycle?
 
 The Software Delivery Lifecycle is the process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt. While I'm not a fan of the monica, it gives me an opportunity to talk about topics that cover a full range of tasks and skills that make up a modern approach to software maintenance.
 
-Key topics I want to talk about include "There is an infinite amount of value to be created", Continuous Integhration, Build Pipelines, Source Control, Your code as a crime scene, Pull requests, Code Reviews, Code as a product, Long term maintenance, Load testing, and Non-functional requirements.
+Key topics I want to talk about include There is an Infinite Amount of Value to be Created, Continuous Integration, Build Pipelines, Source Control, Your code as a crime scene, Pull requests, Code Reviews, Code as a product, Long term maintenance, Load testing, and Non-functional requirements.
+
+---
+
+## Software Testing
+
+Picture of test checklist, pass and fail?
+
+???
+
+In the Software Testing specialism I want to explore the large and complex field of validating software; the more time you spend testing, the more issues you can find - and while automation is important - so is test strategy, and resource allocation.
+
+There are many topics I want to explore from Why test?, When to manually test?, and When to Automate Testing?; cover topics such as Unit Testing, Integration testing, Schema tests, Contract testing, API testing, Smoke Tests... and approaches such as Test Driven Development, Behaviour Driven Development, TDD and BDD being the same thing?, and 5 minute commits.
+
+---
+
+## Service Design
+
+Users and actions surrounding a software system?
+
+???
+
+Service Design as a specialism is an opportunity to talk about next level software development - services are what really matter; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
+
+The key topics I want to explore include Product vs Services, Good Services, Supporting services with software, Separating software tools from the services they provide, Service Catalogues, and Measuring the success of a service.
 
 ---
 
@@ -144,60 +168,6 @@ Picture of a team and a leader pointing the way?
 In the Team Building specialism I want to explore how individuals negotiate with others to form a common goal. What brings people together? What inspires them to action? What gets people out of bed in the morning? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems.
 
 Key topics I want to explore include Vision and Goals, Quaterly Objectives and key results (OKRs), Strategy vs Tactics, Camaraderie / Comradery, Team Branding, Psychological Safety, Fun things, Team Health, Roles and responsibilities. 
-
----
-
-## Software Testing
-
-Picture of test checklist, pass and fail?
-
-???
-
-In the Software Testing specialism I want to explore the large and complex field of validating software; the more time you spend testing, the more issues you can find - and while automation is important - so is test strategy, and resource allocation.
-
-There are many topics I want to explore from "Why test?", "When to manually test?", and "When to automate testing?"; cover topics such as Unit Testing, Integration testing, Schema tests, Contract testing, API testing, Smoke Tests... and approaches such as Test Driven Development, Behaviour Driven Development, "TDD and BDD being the same thing?", and "5 minute commits".
-
----
-
-## Service Design
-
-Users and actions surrounding a software system?
-
-???
-
-Service Design as a specialism is an opportunity to talk about next level software development - services are what really matter; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
-
-The key topics I want to explore include "Product vs Services", Good Services, Supporting services with software, Separating software tools from the services they provide, Service Catalogues, and Measuring the success of a service.
-
----
-
-## Software Delivery Lifecycle
-
-Picture of software delivery loop?
-
-???
-
-TODO: Write this summary
-
----
-
-## Software Testing
-
-Picture of testing and quality?
-
-???
-
-TODO: Write this summary
-
----
-
-## Team Building
-
-Picture of a team working together?
-
-???
-
-TODO: Write this summary
 
 ---
 
