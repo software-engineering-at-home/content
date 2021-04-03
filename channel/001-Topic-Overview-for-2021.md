@@ -41,7 +41,7 @@ The key topics in this field that I want to cover include general frameworks suc
 
 ## Architecture
 
-Blue-prints of software systems for houses, and sky scrapers?
+![Blue-prints of software systems for houses, and sky scrapers](./diagrams/clipart/blueprints-houses-skyscrapers.drawio.svg)
 
 ???
 
