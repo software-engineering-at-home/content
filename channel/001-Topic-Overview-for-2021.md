@@ -53,7 +53,7 @@ The key topics in this field that I want to cover include Architecture for Progr
 
 ## Cloud Based Infrastructure
 
-Picture of computers in a cloud?
+![Computers in a cloud](./diagrams/clipart/computers-in-a-cloud.drawio.svg)
 
 ???
 
@@ -65,7 +65,7 @@ The key topics in this field that I want to cover include Instance Compute, Lamb
 
 ## Computer Science
 
-Picture of a mathemetical function?
+![Mathemetical function](./diagrams/clipart/mathematical-function.drawio.svg)
 
 ???
 
@@ -77,7 +77,7 @@ The key topics in this field that I want to cover include Algoritms, Data Struct
 
 ## Monitoring and Alerts
 
-Picture of spy glass and alarm bell?
+![Spy glass and Alarm Bell](./diagrams/clipart/spy-glass-and-alarm-bell.drawio.svg)
 
 ???
 
@@ -89,7 +89,7 @@ The key topics in this field include Why monitor?, Why setup alerts?, Creating g
 
 ## Organisational Structures
 
-Picture of org chart?
+![Org Chart](./diagrams/clipart/org-chart.drawio.svg)
 
 ???
 
@@ -101,7 +101,7 @@ The key topics in this field include The Org Chart, Line of Reporting, Role of M
 
 ## Programming
 
-Picture of code blocks interacting?
+![Code blocks interacting](./diagrams/clipart/code-blocks-intersecting.drawio.svg)
 
 ???
 
@@ -113,7 +113,7 @@ Disparate from the specialism Programming Languages, Programming as an Approach,
 
 ## Programming Languages
 
-Picture of language symbols?
+![Language Symbols](./diagrams/clipart/language-symbols.drawio.svg)
 
 ???
 
@@ -125,7 +125,7 @@ I'll try and cover languages I am most familiar with, but am happy to explore ne
 
 ## Software Delivery Lifecycle
 
-Picture of a value release production cycle?
+![Value release production cycle](./diagrams/clipart/value-release-production-cycle.svg)
 
 ???
 
@@ -137,7 +137,7 @@ Key topics I want to talk about include There is an Infinite Amount of Value to 
 
 ## Software Testing
 
-Picture of test checklist, pass and fail?
+![Test checklist, showing pass and fail](./diagrams/clipart/test-checklist-pass-and-fail.drawio.svg)
 
 ???
 
@@ -149,7 +149,7 @@ There are many topics I want to explore from Why test?, When to manually test?, 
 
 ## Service Design
 
-Users and actions surrounding a software system?
+![Users and actions surrounding a software system](./diagrams/clipart/users-and-actions-surrounding-a-software-system.drawio.svg)
 
 ???
 
@@ -161,7 +161,7 @@ The key topics I want to explore include Product vs Services, Good Services, Sup
 
 ## Team Building
 
-Picture of a team and a leader pointing the way?
+![Team and a leader pointing the way](./diagrams/clipart/team-and-leader-pointing-the-way.drawio.svg)
 
 ???
 
