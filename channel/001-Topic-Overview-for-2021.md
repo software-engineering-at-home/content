@@ -101,7 +101,7 @@ The key topics in this field include The Org Chart, Line of Reporting, Role of M
 
 ## Programming
 
-![Code blocks interacting](./diagrams/clipart/code-blocks-intersecting.drawio.svg)
+![Code blocks interacting](./diagrams/clipart/code-blocks-interacting.drawio.svg)
 
 ???
 
