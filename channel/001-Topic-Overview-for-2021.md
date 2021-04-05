@@ -125,7 +125,7 @@ I'll try and cover languages I am most familiar with, but am happy to explore ne
 
 ## Software Delivery Lifecycle
 
-![Value release production cycle](./diagrams/clipart/value-release-production-cycle.svg)
+![Value release production cycle](./diagrams/clipart/value-release-production-cycle.drawio.svg)
 
 ???
 
