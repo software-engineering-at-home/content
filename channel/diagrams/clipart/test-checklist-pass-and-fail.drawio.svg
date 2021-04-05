@@ -1,10 +1,75 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="183px" height="23px" viewBox="-0.5 -0.5 183 23" content="&lt;mxfile&gt;&lt;diagram id=&quot;NhqJ_ardOWNHqCwG6pmV&quot; name=&quot;Page-1&quot;&gt;zZbBcoIwEEC/hjshmIFjQdpeevLQc4QIGQPLxCjQr2+QAFJ02pmqw8UJbzcb9mVnxMJhXr9JWmYfkDBhOXZSW3htOY7vrfRvC5oOEOR1IJU86RAawYZ/MQNtQ488YYdJogIQipdTGENRsFhNGJUSqmnaDsT01JKmbAY2MRVz+skTlXXUs+2RvzOeZubk1coEctrnGnDIaALVBcKRhUMJoLpVXodMtOp6Ld2+1xvR4b0kK9RfNmDc7ThRcTS9mRdTTd9sKuFYzgubs05MKlZfs063fYWxMz0QDHKmZKPz6umlNtPHahSLPMOyC6m9QmruMh0Kj/3qhWn5evvu793r5ouEtfm2hYMq44ptShq30UrPtmaZynX9NdLLg5KwH0YCayLolomAxvv0XCgEAVKHCih0hWDHheiR5WDi+8gPNJ/bHi7qp+7bWp25SOdBHlfL8hhFYUTQnTx6z9NIlqVx7YZRaP9X4xO8ecvy5rygwCZ3Gj/3eePnL0ujGxFM7qURkYd51I/jH/Y5dvHRg6Nv&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="761px" height="462px" viewBox="-0.5 -0.5 761 462" content="&lt;mxfile&gt;&lt;diagram id=&quot;NhqJ_ardOWNHqCwG6pmV&quot; name=&quot;Page-1&quot;&gt;5Z1bc+I2FIB/TR6X0f3y2BDaPrQzO7MPbR+9QQvuOogxTgL99ZXBBiwb1rvIksUmD7GPhWx/5+hcZIs84OnL9rc8WS//1HOVPSAw3z7gpweEICTC/Cklu4OEcnAQLPJ0XjU6CT6l/6lKWDd7Tedq02hYaJ0V6bopfNarlXouGrIkz/V7s9kXnTXPuk4WqiX49Jxkbelf6bxYHqQCgJP8d5UultWZKa0OfE6evy5y/bqqTveAMPoFPgJ2OPyS1F1V7TfLZK7fz0R49oCnudbFYetlO1VZibamdvjcrxeOHi87V6uizwdopadNsatvXc0NiWpX58VSL/QqyWYn6eP+/lTZAzB7pzZ/aL02QmiE/6qi2FVqTV4LbUTL4iWrjqptWvx9tv1P2dWE02r3aVt1vd/ZVTubItdf1VRnOjeSlV6Vl3K4+vKSLwKoRBv9mj9XrTA/ojYWrPSLKvKdaZOrLCnSt2ZfSWVKi2O740c/6tScBYHa7CmbUEoFQ4AJyczmoYdqDEDBJlA2Oy2SfKGKqp+TnszG2YWdRHvtdWsSk0PPb0n2qmrjs1TbVNz7Mi3Up3Wyp/JuxnFTSZ28v6RZVouMbc9m0xmDRz28qbxQ2+uaaFM/Og05kVIyzjkiXEAhm/QImABQEX0/jcnasSzPhmMt61JdA/EVnlR+m2c50tfX7r5yT8nn+hPgu6lgMGEYQC4BgVyY3yYVY3IISYGAZNBQo6QFiIgJx0JKjhmVQgDS5oW5sVuAqQCcA4KEvB0fZo7NMdeFGZt6ZXYJve4OvmGGB81eJP4BTDAFHErEIEMMQIgbyJE5jojBRI1eKOe4RRzRCRKCUGbihSGKOG8jlxMikMBGrdT0BrkD4jxW4iUv84ORGfuEGkeAGsA/4ImxTUwEJNi4Btj2ASVMDLkZKwAY6+WizZvgCTPZBSWYESKhC+AM9PUQA7oHVHpFvB/dElHSjDilrQJI5PGnbauDuU/o2BqtyENmDDN2k1Uy0I3WB50e3vF207l0g3VPZeggZ6GjOewuHT7DY8eNDj9nNZH16L2JnpdUx3Z//Twdu46cGFeGqcRYCAqYbEaWsTq6Oo/1xhvinxs47wE8bGQxPEJFFu46s3QfWQ76CxJZeI8s8HbTuXSDsUeWenyPMLLwC3MWcTu6HkV2qMhyl8BFj5rlFud5nBD6ced5PSzVN7Br7p5X36LDtVIHrlW4Lmn6zLAdo5F7dvsZNdh2vR34MCjn5hwgRAEQPpHpbArcIETAYkg7GRLQAZE4YojvjKGxLsPwlEpK4ZdniInzIXliaHi2U6pBGfYoWDbLZF1uLtU2WZTB+HGt8tScSuUn6cdahPqEnq2qHx3uuVebFx8WDfjwgpGWX2gpYLC41KMgGh18lwPAht/DoQymix7l10+liwvOaDD+Xgo4i1/1hN+NM4eWI2GdCQbq4Icc+XIvNdmQCGlohNJ1leUdoQyOMESx5RIhxsERhii2nCLkwRGGqLVcIiTBw4kMUV45RRjeF3p5/jYgQhreF7p+aOQdYXhf6Pr9otAIUff855AI76068Y8QgnvLrUMwvLfkOgTDe0sNQzC8t9wwBMN7Sw5DMLy37BCjzlnXQRnGnh7auU0IhtFPvcrgDGHs+aGd24RgGH1+GN4f1otYomVIaAfDjsVOQzKMPscegT+MPce288MQDGPPDy0zlOWr/WfvR0i/NGPPFCEeFc7YJxUhHxXO6HNwOCacKPZ0fFy+E0WfmY/Kd9b0osXJgj8WhCj2JJ1Z39Oyn4BEZybJ/fKMPWFnYlw8Y58gt8d4gAIIefm+gpsWJIvy6NmC5PYX4Qy15BYi1wWN+xXJlQbbcL3w6VGhOLCeS7cY+6JkiLyUJD+0KrnS7WXoUa6SPRb4Y1yXfK/IQ1Q2gy7DqwtHT2vwIO5RzIxu7RGTEspHR4mSvfaoQwNDLTyCOPYyyH6H4GirnnLMIF9gOeTEm3eAsRc69sItArxPZjj/2srQ82vejTD2hzv2qwPeAcb+OMd+byDEKI79GY793oBvIyRe6h+PLw14B9gjFx81QHtSPMAoJrFn1PZEeAiGseeEnNgDucWPdNXULko6EnsyiAKyiz0PtNkxn/BizwFbo3Y4emb39O9S9sfO/iUNnv0P&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(42, 27, 6);">
     <defs/>
     <g>
-        <rect x="121" y="1" width="20" height="20" fill="#69919b" stroke="#000000" stroke-width="3" pointer-events="all"/>
-        <rect x="81" y="1" width="20" height="20" fill="#eece61" stroke="#000000" stroke-width="3" pointer-events="all"/>
-        <rect x="1" y="1" width="20" height="20" fill="#d4cec0" stroke="#000000" stroke-width="3" pointer-events="all"/>
-        <rect x="41" y="1" width="20" height="20" fill="#2a1b06" stroke="#000000" stroke-width="3" pointer-events="all"/>
-        <rect x="161" y="1" width="20" height="20" fill="#4e6366" stroke="#000000" stroke-width="3" pointer-events="all"/>
+        <rect x="100" y="100" width="70" height="70" fill="#eece61" stroke="none" pointer-events="all"/>
+        <rect x="110.28" y="136.55" width="25.29" height="9.48" fill="#ffffff" stroke="none" transform="rotate(45,122.92,141.3)" pointer-events="all"/>
+        <rect x="135.85" y="113.19" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(45,140.59,135)" pointer-events="all"/>
+        <rect x="100" y="180.01" width="70" height="70" fill="#4e6366" stroke="none" pointer-events="all"/>
+        <rect x="130.26" y="193.2" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(45,135,215.01)" pointer-events="all"/>
+        <rect x="130.26" y="193.2" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(135,135,215.01)" pointer-events="all"/>
+        <rect x="100" y="260.01" width="70" height="70" fill="#4e6366" stroke="none" pointer-events="all"/>
+        <rect x="130.26" y="273.2" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(45,135,295.01)" pointer-events="all"/>
+        <rect x="130.26" y="273.2" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(135,135,295.01)" pointer-events="all"/>
+        <rect x="60" y="40" width="280" height="50" fill="#eece61" stroke="none" pointer-events="all"/>
+        <rect x="60" y="100.01" width="30" height="309.99" fill="#4e6366" stroke="none" pointer-events="all"/>
+        <rect x="180" y="110.01" width="400" height="49.99" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <rect x="180" y="190.02" width="400" height="49.99" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <rect x="180" y="270.02" width="400" height="49.99" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <path d="M 630 110 L 690 110 L 700 135 L 690 160 L 630 160 L 620 135 Z" fill="#eece61" stroke="none" pointer-events="all"/>
+        <path d="M 630 190.02 L 690 190.02 L 700 215.02 L 690 240.02 L 630 240.02 L 620 215.02 Z" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <path d="M 630 270.02 L 690 270.02 L 700 295.02 L 690 320.02 L 630 320.02 L 620 295.02 Z" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <rect x="190" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="230" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="270" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="310" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="350" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="390" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="470" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="510" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="550" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="550" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="190" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="270" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="310" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="390" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="470" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="510" y="200.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="550" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="190" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="270" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="310" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="350" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="430" y="280.03" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="470" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="510" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="70" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="110" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="150" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="190" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="270" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="310" y="50.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="650" y="120.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="635" y="200.03" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="665" y="200.03" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="650" y="280.02" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="100" y="340" width="70" height="70" fill="#4e6366" stroke="none" pointer-events="all"/>
+        <rect x="130.26" y="353.19" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(45,135,375)" pointer-events="all"/>
+        <rect x="130.26" y="353.19" width="9.48" height="43.62" fill="#ffffff" stroke="none" transform="rotate(135,135,375)" pointer-events="all"/>
+        <rect x="180" y="350" width="400" height="49.99" fill="#d4cec0" stroke="none" pointer-events="all"/>
+        <path d="M 630 350 L 690 350 L 700 375 L 690 400 L 630 400 L 620 375 Z" fill="#69919b" stroke="none" pointer-events="all"/>
+        <rect x="550" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="190" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="230" y="360.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="310" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="350" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="430" y="360.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="470" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="510" y="360" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="635" y="360.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="665" y="360.01" width="20" height="29.99" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="720" y="0" width="40" height="40" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="0" y="0" width="40" height="40" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="0" y="420" width="40" height="40" fill="#2a1b06" stroke="none" pointer-events="all"/>
+        <rect x="720" y="420" width="40" height="40" fill="#2a1b06" stroke="none" pointer-events="all"/>
     </g>
 </svg>
