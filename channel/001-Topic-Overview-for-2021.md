@@ -137,8 +137,9 @@ Even if you're not working in a team, organising your self and your workflow so 
 Programming is a vast field of approaches which explores how we interact with computers through code; everything from abstract symbol manipulation, data structures, APIs, algorithms, linting, and code quality.
 
 Disparate from the specialism of Programming Languages, Programming as an approach, looks at key topics such as:
-- Program structure, Code architecture, Object Orientated Programming (OOP)
-- Functional Programming, Non-functional side effects, and Coupling and Cohesion
+- Program structure, Code architecture
+- Object Orientated Programming (OOP), Functional Programming,
+- Non-functional side effects, and Coupling and Cohesion
 
 There will be some overlap here between Computer Science as a specialism, but Programming should be more practical - and less theoretical - than the concepts presented elsewhere. 
 
@@ -152,7 +153,12 @@ There will be some overlap here between Computer Science as a specialism, but Pr
 
 Programming Languages are all different ways of providing instructions to computers. In this specialism I want to look at named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use.
 
-I'll try and cover languages I am most familiar with, but am happy to explore new programming languages to compare and contrast. Topics to explore include .NET, Bash, C++, Java, JavaScript, Java !== JavaScript, Python, and Regular Expressions.
+I'll try to cover languages I am most familiar with, but am happy to explore new programming languages to compare and contrast.
+
+Topics to explore include:
+- .NET, Bash, C++,
+- Java, JavaScript, Java !== JavaScript,
+- Python, and Regular Expressions.
 
 ---
 
@@ -162,9 +168,18 @@ I'll try and cover languages I am most familiar with, but am happy to explore ne
 
 ???
 
-The Software Delivery Lifecycle is the process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt. While I'm not a fan of the monica, it gives me an opportunity to talk about topics that cover a full range of tasks and skills that make up a modern approach to software maintenance.
+The Software Delivery Lifecycle is the process of releasing value - from code to working software.
 
-Key topics I want to talk about include There is an Infinite Amount of Value to be Created, Continuous Integration, Build Pipelines, Source Control, Your code as a crime scene, Pull requests, Code Reviews, Code as a product, Long term maintenance, Load testing, and Non-functional requirements.
+The full process involves integrating real world user feedback, and improving the value proposition of a code base while managing technical debt.
+
+While I'm not a fan of the monica, this field gives me an opportunity to cover a modern approach to software maintenance.
+
+Key topics include:
+- There is an Infinite Amount of Value to be Created,
+- Continuous Integration, Build Pipelines, Source Control,
+- Your code as a crime scene, Pull requests, Code Reviews,
+- Code as a product, Long term maintenance, Load testing,
+- and Non-functional requirements.
 
 ---
 
@@ -174,9 +189,15 @@ Key topics I want to talk about include There is an Infinite Amount of Value to 
 
 ???
 
-In the Software Testing specialism I want to explore the large and complex field of validating software; the more time you spend testing, the more issues you can find - and while automation is important - so is test strategy, and resource allocation.
+In the Software Testing specialism I want to explore the large and complex field of validating software.
 
-There are many topics I want to explore from Why test?, When to manually test?, and When to Automate Testing?; cover topics such as Unit Testing, Integration testing, Schema tests, Contract testing, API testing, Smoke Tests... and approaches such as Test Driven Development, Behaviour Driven Development, TDD and BDD being the same thing?, and 5 minute commits.
+In principle - the more time you spend testing, the more issues you can find - and while automation is important - so is test strategy, and resource allocation.
+
+Topics to explore include:
+- Why test?, When to manually test?, and When to Automate Testing?;
+- Unit Testing, Integration testing, Schema tests,
+- Contract testing, API testing, Smoke Tests
+- Test Driven Development, Behaviour Driven Development, and 5 minute commits.
 
 ---
 
@@ -186,9 +207,14 @@ There are many topics I want to explore from Why test?, When to manually test?, 
 
 ???
 
-Service Design as a specialism is an opportunity to talk about next level software development - services are what really matter; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
+Service Design as a specialism is an opportunity to talk about next level software development - services are what really matter; products are built and sold, but services are timely and ongoing. 
 
-The key topics I want to explore include Product vs Services, Good Services, Supporting services with software, Separating software tools from the services they provide, Service Catalogues, and Measuring the success of a service.
+We need to ask the question: How does service based design influence how we approach software engineering?
+
+Key topics include:
+- Product vs Services, Good Services, Supporting services with software,
+- Separating software tools from the services they provide,
+- Service Catalogues, and Measuring the success of a service.
 
 ---
 
@@ -200,13 +226,19 @@ The key topics I want to explore include Product vs Services, Good Services, Sup
 
 In the Team Building specialism I want to explore how individuals negotiate with others to form a common goal. What brings people together? What inspires them to action? What gets people out of bed in the morning? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems.
 
-Key topics I want to explore include Vision and Goals, Quaterly Objectives and key results (OKRs), Strategy vs Tactics, Camaraderie / Comradery, Team Branding, Psychological Safety, Fun things, Team Health, Roles and responsibilities. 
+Key topics include:
+- Vision and Goals, Quaterly Objectives and key results (OKRs),
+- Strategy vs Tactics, Camaraderie / Comradery,
+- Team Branding, Psychological Safety,
+- Fun things, Team Health, and Roles and responsibilities (RACIF). 
 
 ---
 
 class: conclusion
 
 ## Where next?
+
+Thanks for watching / reading this far!
 
 - Like and Subscribe on Youtube: [Software Engineering at Home](https://www.youtube.com/channel/UCoGJPjY5_Fh222iTw3wRE-w)
 - Follow on Twitter: [@SoftwareAtHome](https://twitter.com/SoftwareAtHome)
@@ -215,8 +247,8 @@ class: conclusion
 
 ???
 
-If you've not already, check out the channel introduction for a brief hello from me. You've finished the topic overview for 2021, so you're probably ready to dig into a specialism that interests you. I'll be trying to make content for each specialism in order - so follow the Software Engineering at Home channel on YouTube, follow @SoftwareAtHome on Twitter, and you can also support the channel by subscribing on our Patreon for early access to content - and ask questions to get answers.
+If you've not already, check out the channel introduction for a brief hello from me. You've finished the topic overview for 2021, so you're probably ready to dig into a specialism that interests you. I'll be trying to make content for each specialism in order - so follow the Software Engineering at Home channel on YouTube, follow @SoftwareAtHome on Twitter, and you can also support the channel by subscribing on our Patreon for early access to content - where you can ask questions to get answers.
 
 Finally, please let me know in the comments which topics you're most interested in - and that will help me prioritise content.
 
-Keep an open mind, and be kind to each other.
+I hope you keep an open mind, and be kind to each other.
