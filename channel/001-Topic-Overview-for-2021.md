@@ -22,7 +22,7 @@ class: intro
 ???
 
 
-To get started for 2021 - and by way of an extended channel introduction- lets dive into some of the topics that we will be trying to cover this year. Topics have been grouped by specialism - in this article I'll go through each of the specialisms planned out on the Topics page and give some more context to the topics available. If you're interested in a specific specialism; feel free to skip ahead to that section. If there are specific topics you'd like to hear more about for future please let me know via feedback in the comments.
+To get started for 2021 - and by way of an extended channel introduction- lets dive into some of the topics that we will be trying to cover this year. Topics have been grouped by specialism - in this video / article I'll go through each of the specialisms planned out on the Topics page and give some more context to the topics available. If you're interested in a specific specialism; feel free to skip ahead to that section. If there are specific topics you'd like to hear more about for future please let me know via feedback in the comments.
 
 If you've not already watched or read the channel introduction, that's a great place to learn about goals of the channel, and find out how subscribe.
 
