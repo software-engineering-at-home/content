@@ -131,6 +131,9 @@ Perhaps you're a mentor at work, or school, or in a community group. Maybe you'r
 
 If you have taught the thing to someone else, and answered yes to all the other questions, then you are probably as good as an expert. On the Learning by Numbers scale you would score 5 for this skill. That's not to say you know everything about the topic, or have more to learn - there are people who spend years, if not decades perfecting their craft. Potentially there's a scale for 6's, 7's, and 8's - such people might have PhDs, be business owners, or are recognised nationally and internationally.
 
+???
+
+---
 
 ## Content
 
