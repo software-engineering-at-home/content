@@ -27,9 +27,9 @@ The 5 stage learning model presented in this topic provides a transparent framew
 ---
 
 
-## 5 Stage Model of Learning
+## Learning by Numbers Model
 
-The 5 stage model is very simply:
+The model used here has five stages:
 
 1. Awareness
 2. Research
@@ -109,7 +109,7 @@ If you have used the thing, you have practical experience and memories of how to
 
 ## Practiced
 
-Practiced means you have achieve a level of skill beyond basic usage.
+Practiced means you have achieved a level of skill beyond basic usage.
 
 At this fourth level of the model, the basic yes-no question to ask is; "Have you extensively used the thing?".
 
@@ -130,6 +130,59 @@ At this fith level of the model, the basic yes-no question to ask is; "Have you 
 Perhaps you're a mentor at work, or school, or in a community group. Maybe you're a team leader. Maybe you've built a YouTube channel, published a udemy course, or shared your knowledge with the world via a podcast.
 
 If you have taught the thing to someone else, and answered yes to all the other questions, then you are probably as good as an expert. On the Learning by Numbers scale you would score 5 for this skill. That's not to say you know everything about the topic, or have more to learn - there are people who spend years, if not decades perfecting their craft. Potentially there's a scale for 6's, 7's, and 8's - such people might have PhDs, be business owners, or are recognised nationally and internationally.
+
+???
+
+---
+
+### Application in a Team
+
+The Learning by Numbers scale has two main purposes:
+
+1. Identifying skill shortages in a team with the goal to build a resilient team by cross-training skillsets
+2. Building an individual training plan which aligns individual strengths and weaknesses with team priorities
+
+???
+
+---
+
+### Identifying Skill Shortages
+
+To identify potential skill shortages; you can start by listing out all the key domains of knowledge required to work on a system. For example, in a medium sized software application you might identify that the team is responsible for:
+
+- SSL Certificate management
+- Linux command line tools
+- Java 8 
+- Spark server
+- Maven
+- Jenkins CI
+- AWS Lambda with Node JS
+- Terraform
+- Serverless
+- MySQL
+
+With this list to hand, you can then build a survey, or a spreadsheet asking team members to grade their knowledge of each area from 1 to 5 using the Learning by Numbers scale: (1: Aware, 2: Researched, 3: Used, 4: Practiced, 5: Teaching)
+
+???
+
+---
+
+## Building a training plan
+
+Add up the scores for each skill based on the team's responses; and then order by descending totals - start training with the top item, and rescore after each training session. This is now a tool that you can revisit monthly.
+
+| Skill | John | Hannah | Ezio | Icarus | Total |
+| - | - | - | - | - |
+| Spark server | 2 | 2 | 1 | 0 | 5 |
+| SSL Certificate management | 4 | 3 | 0 | 0 | 7 |
+| Linux command line tools | 4 | 3 | 0 | 1 | 8 |
+| Java 8  | 2 | 4 | 0 | 2 | 8 |
+| MySQL | 1 | 2 | 1 | 5 | 9 |
+| AWS Lambda with Node JS | 2 | 4 | 2 | 2 | 10 |
+| Maven | 3 | 3 | 3 | 2 | 11 |
+| Jenkins CI | 3 | 3 | 2 | 3 | 11 |
+| Terraform | 3 | 3 | 4 | 5 | 11 |
+| Serverless | 3 | 2 | 3 | 3 | 11 |
 
 ???
 
