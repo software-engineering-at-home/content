@@ -209,9 +209,11 @@ Using the Learning by Numbers model, we can quickly grade and share our knowledg
 
 Working with a team, we can share our combined knowledge of a field, and use that to build individual and communal training plans.
 
-Making a plan is easy; and for simple skills you might only need a few days to become an expert. For bigger more complex topics, it may take many days, weeks, and years across a variety of skills to become comfortable.
+Making a plan is easy; and for simple skills you might only need a few days to become an expert.
 
-As we become aware of new skills, learn, use, practice, and teach; we become more capable and responsible.
+For bigger more complex topics, it may take days, weeks, or even years across a variety of skills to become comfortable.
+
+Practically - go and list out all the skills required to do your job - grade yourself via self-assessment against the Learning by Numbers scale, and then concentrate your training on skills where you have the least experience.
 
 ???
 
