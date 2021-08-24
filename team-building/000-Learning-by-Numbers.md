@@ -10,7 +10,7 @@ How to prepare a team to become experts in their field of responsibility.
 ???
 
 This content is formatted for slides; to launch the viewer please follow this link:
-- https://software-engineering-at-home.github.io/content/slides.html?view=WRITING-TEMPLATE.md
+- https://software-engineering-at-home.github.io/content/slides.html?view=/content/team-building/000-Learning-by-Numbers.md
 
 ---
 
