@@ -135,7 +135,7 @@ If you have taught the thing to someone else, and answered yes to all the other 
 
 ---
 
-### Application in a Team
+## Application in a Team
 
 The Learning by Numbers scale has two main purposes:
 
