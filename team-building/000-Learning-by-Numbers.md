@@ -146,55 +146,54 @@ The Learning by Numbers scale has two main purposes:
 
 ---
 
-### Identifying Skill Shortages
+## Identifying Skill Shortages
 
-To identify potential skill shortages; you can start by listing out all the key domains of knowledge required to work on a system. For example, in a medium sized software application you might identify that the team is responsible for:
+Build a skills survey around technologies and skills of the team.
 
-- SSL Certificate management
-- Linux command line tools
-- Java 8 
-- Spark server
-- Maven
-- Jenkins CI
-- AWS Lambda with Node JS
-- Terraform
-- Serverless
-- MySQL
+| Grade | Aware | Researched | Used | Practiced | Teaching |
+|-------|-------|------------|------|-----------|----------|
+| Score | 1     | 2          | 3    | 4         | 5        |
 
-With this list to hand, you can then build a survey, or a spreadsheet asking team members to grade their knowledge of each area from 1 to 5 using the Learning by Numbers scale: (1: Aware, 2: Researched, 3: Used, 4: Practiced, 5: Teaching)
+Send out the survey as a self-assessment for everyone to complete, e.g.:
+
+| Skill                      | Score |
+|----------------------------|-------|
+| SSL Certificate management | 4     |
+| Linux command line tools   | 4     |
+| Java 8                     | 2     |
+| Spark server               | 2     |
+| Maven                      | 3     |
+| Jenkins CI                 | 2     |
+| Terraform                  | 3     |
+| MySQL                      | 3     |
+
+
 
 ???
+
+To identify potential skill shortages; you can start by listing out all the key domains of knowledge required to work on a system. For example, in a medium sized software application you might identify that the team needs 8 different skills to do their jobs effectively.
+
+With this list to hand, you can then build a survey, or a spreadsheet asking team members to grade their knowledge of each area from 1 to 5, for example:
 
 ---
 
 ## Building a training plan
 
-Add up the scores for each skill based on the team's responses; and then order by descending totals - start training with the top item, and rescore after each training session. This is now a tool that you can revisit monthly.
+Add up the scores for each skill based on the team's responses; and then order the table by descending totals - start training with the top item, and rescore after each training session. This is now a shared tool that you can revisit.
 
-| Skill | John | Hannah | Ezio | Icarus | Total |
-| - | - | - | - | - |
-| Spark server | 2 | 2 | 1 | 0 | 5 |
-| SSL Certificate management | 4 | 3 | 0 | 0 | 7 |
-| Linux command line tools | 4 | 3 | 0 | 1 | 8 |
-| Java 8  | 2 | 4 | 0 | 2 | 8 |
-| MySQL | 1 | 2 | 1 | 5 | 9 |
-| AWS Lambda with Node JS | 2 | 4 | 2 | 2 | 10 |
-| Maven | 3 | 3 | 3 | 2 | 11 |
-| Jenkins CI | 3 | 3 | 2 | 3 | 11 |
-| Terraform | 3 | 3 | 4 | 5 | 11 |
-| Serverless | 3 | 2 | 3 | 3 | 11 |
+| Skill                      | John | Hannah | Ezio | Icarus | Total |
+|----------------------------|------|--------|------|--------|-------|
+| Spark server               | 2    | 2      | 1    | 0      | 5     |
+| SSL Certificate management | 4    | 3      | 0    | 0      | 7     |
+| Linux command line tools   | 4    | 3      | 0    | 1      | 8     |
+| Java 8                     | 2    | 4      | 0    | 2      | 8     |
+| MySQL                      | 1    | 2      | 1    | 5      | 9     |
+| Maven                      | 3    | 3      | 3    | 2      | 11    |
+| Jenkins CI                 | 3    | 3      | 2    | 3      | 11    |
+| Terraform                  | 3    | 3      | 4    | 5      | 11    |
+
 
 ???
-
----
-
-## Content
-
-- ☑️ Set the premise - what's the topic, refer to the Why?
-- ☑️ Tell a story - build a model around the premise using a real world story - either from personal experience or research.
-- ☑️ Explain the story - explain how the story links back to the premise
-- ☑️ Extract the value - identify the keys points from the story that explain the topic
-- ☑️ Practical advice - add personal advice and guidance on top of the story
 
 ---
 
@@ -202,5 +201,22 @@ class: conclusion
 
 ## Conclusion
 
-- ☑️ Repeat the presmise, the key points, and the practical advice to close out the video
-- ☑️ Like, subscribe, and share - support on patreon 
+Using the Learning by Numbers model, we can quickly grade and share our knowledge and experience of multiple skills.
+
+| Grade | Aware | Researched | Used | Practiced | Teaching |
+|-------|-------|------------|------|-----------|----------|
+| Score | 1     | 2          | 3    | 4         | 5        |
+
+Working with a team, we can share our combined knowledge of a field, and use that to build individual and communal training plans.
+
+Making a plan is easy; and for simple skills you might only need a few days to become an expert. For bigger more complex topics, it may take many days, weeks, and years across a variety of skills to become comfortable.
+
+As we become aware of new skills, learn, use, practice, and teach; we become more capable and responsible.
+
+???
+
+- ☑️ Set the premise - what's the topic, refer to the Why?
+- ☑️ Tell a story - build a model around the premise using a real world story - either from personal experience or research.
+- ☑️ Explain the story - explain how the story links back to the premise
+- ☑️ Extract the value - identify the keys points from the story that explain the topic
+- ☑️ Practical advice - add personal advice and guidance on top of the story
