@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "cheerio": "*",
-    "marked": "^3.0.3"
+    "marked": "^3.0.3",
+    "promise-path": "^1.4.1"
   }
 }
