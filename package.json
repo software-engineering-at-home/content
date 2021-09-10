@@ -20,5 +20,9 @@
   "homepage": "https://github.com/software-engineering-at-home/content#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cheerio": "*",
+    "marked": "^3.0.3"
   }
 }
