@@ -5,7 +5,7 @@
   "main": "start.js",
   "scripts": {
     "start": "node ./",
-    "test": "standard --env mocha && npm run test:content",
+    "test": "node models/parse-markdown-files && standard --env mocha && npm run test:content",
     "test:content": "mocha tests/**/*test.js",
     "lint": "npm run lint:js",
     "lint:js": "standard --env mocha --fix"

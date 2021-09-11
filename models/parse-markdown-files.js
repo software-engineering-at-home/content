@@ -25,7 +25,10 @@ async function parseMarkdownFiles (searchpattern) {
   await clean(outputdir)
   await make(outputdir)
 
-  console.log('Files', files)
+  console.log('[Parse Markdown Files]')
+  console.log('Creating JSON versions of markdown files for verification and validation')
+  console.log('  Found files:', searchpattern, files)
+  console.log('')
 
   const work = files.map(async (filepath) => {
     const outputname = filepath.toLowerCase().split('.')[0] + '.json'
@@ -34,6 +37,7 @@ async function parseMarkdownFiles (searchpattern) {
     console.log('Parsed', result.source)
     const relativepath = result.output.slice(root('./').length)
     console.log('  Created', relativepath, result.size, 'bytes')
+    console.log('')
     return result
   })
 
