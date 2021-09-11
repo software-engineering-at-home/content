@@ -1,9 +1,10 @@
-function getParamsFromUrl(url) {
+/* global remark */
+function getParamsFromUrl (url) {
   const decodedUrl = decodeURI(url)
   if (typeof decodedUrl === 'string') {
-    let paramStr = (decodedUrl.split('?')[1] || '').split('#')[0]
-    let pairs = paramStr.split('&').map(kvp => kvp.split('='))
-    let params = pairs.reduce((acc, [key, value]) => {
+    const paramStr = (decodedUrl.split('?')[1] || '').split('#')[0]
+    const pairs = paramStr.split('&').map(kvp => kvp.split('='))
+    const params = pairs.reduce((acc, [key, value]) => {
       if (key) {
         acc[key] = value
       }
@@ -13,7 +14,7 @@ function getParamsFromUrl(url) {
   }
 }
 
-function startSlides() {
+function startSlides () {
   const params = getParamsFromUrl(document.location)
   const { view } = params
 
@@ -27,7 +28,7 @@ function startSlides() {
 }
 
 let rewriteLock = false
-function rewriteMarkdownLinks(slide) {
+function rewriteMarkdownLinks (slide) {
   if (rewriteLock) {
     return
   }
@@ -46,10 +47,10 @@ function rewriteMarkdownLinks(slide) {
   console.log('Found and rewrote:', rewrittenImages.length, 'slide images in this presentation.')
 }
 
-function rewriteMarkdownLink(list, el) {
+function rewriteMarkdownLink (list, el) {
   const pattern = /(\/[A-z\d-/]+.md)$/
   const href = new URL(el.href)
-  const [,markdownPath] = (href.pathname.match(pattern) || [])
+  const [, markdownPath] = (href.pathname.match(pattern) || [])
   const rewrittenAlready = href.pathname.includes('?view=')
   if (markdownPath && !rewrittenAlready) {
     const slideViewerPath = `?view=${markdownPath}`
@@ -60,16 +61,16 @@ function rewriteMarkdownLink(list, el) {
   return list
 }
 
-function rewriteMarkdownImage(list, el) {
+function rewriteMarkdownImage (list, el) {
   const params = getParamsFromUrl(document.location)
   const { view } = params
   const contentPath = view.split('/')
   contentPath.pop()
   const basePath = contentPath.join('/')
 
-  const pattern = /content\/([A-z\d-/\.]+\.(svg|png|jpg))$/
+  const pattern = /content\/([A-z\d-/.]+\.(svg|png|jpg))$/
   const href = new URL(el.src)
-  const [,imagePath] = (href.pathname.match(pattern) || [])
+  const [, imagePath] = (href.pathname.match(pattern) || [])
   const rewrittenAlready = href.pathname.includes(basePath)
   if (imagePath && !rewrittenAlready) {
     const slideViewerPath = `${basePath}/${imagePath}`
@@ -80,7 +81,7 @@ function rewriteMarkdownImage(list, el) {
   return list
 }
 
-if (typeof remark !== undefined) {
+if (typeof remark !== 'undefined') {
   startSlides()
 } else {
   console.log('Remark library not available on DOM; could not start slides.')

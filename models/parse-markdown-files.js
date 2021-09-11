@@ -2,7 +2,7 @@
 const { find, clean, make, read, write, position } = require('promise-path')
 const { convertMarkdownToDocument } = require('./utils/markdown2json')
 
-async function convertMarkdownFileToJsonFile(inputpath, outputpath) {
+async function convertMarkdownFileToJsonFile (inputpath, outputpath) {
   const markdown = await read(inputpath, 'utf8')
   const document = convertMarkdownToDocument(markdown)
   const output = JSON.stringify(document, null, 2)
@@ -15,7 +15,7 @@ async function convertMarkdownFileToJsonFile(inputpath, outputpath) {
   }
 }
 
-async function parseMarkdownFiles(searchpattern) {
+async function parseMarkdownFiles (searchpattern) {
   searchpattern = searchpattern || '**/*.md'
 
   const root = position(__dirname, '..')

@@ -2,38 +2,38 @@
 const marked = require('marked')
 const cheerio = require('cheerio')
 
-function markdownTo$(markdown) {
+function markdownTo$ (markdown) {
   const html = marked(markdown)
   return cheerio.load(html)
 }
 
 const tagActions = {
-  'h1': addTitle,
-  'h2': addTitle,
-  'h3': addTitle,
-  'ul': addList,
-  'li': addListItem,
-  'p': addParagraph,
-  'default': addMeta
+  h1: addTitle,
+  h2: addTitle,
+  h3: addTitle,
+  ul: addList,
+  li: addListItem,
+  p: addParagraph,
+  default: addMeta
 }
 
-function append(obj, property, value) {
+function append (obj, property, value) {
   const list = obj[property] || []
   list.push(value)
   obj[property] = list
 }
 
-function addParagraph(acc, item) {
+function addParagraph (acc, item) {
   append(acc.currentNode, 'items', item.text)
   return acc
 }
 
-function addMeta(acc, item) {
+function addMeta (acc, item) {
   append(acc.currentNode, 'items', item)
   return acc
 }
 
-function addTitle(acc, item) {
+function addTitle (acc, item) {
   const level = Number.parseInt(item.tag.split('')[1])
   if (level <= acc.currentLevel) {
     // step up a level
@@ -49,20 +49,20 @@ function addTitle(acc, item) {
   return acc
 }
 
-function addList(acc, item) {
+function addList (acc, item) {
   acc.currentList = []
   append(acc.currentNode, 'items', acc.currentList)
   return acc
 }
 
-function addListItem(acc, item) {
+function addListItem (acc, item) {
   const list = acc.currentList || []
   acc.currentList = list
   list.push(item.text)
   return acc
 }
 
-function createHierarchy(acc, item) {
+function createHierarchy (acc, item) {
   acc.currentLevel = acc.currentLevel || 0
   acc.currentNode = acc.currentNode || acc
   acc.currentParent = acc.currentParent || acc
@@ -72,7 +72,7 @@ function createHierarchy(acc, item) {
   return action(acc, item)
 }
 
-function createDocumentFrom(orderedItems) {
+function createDocumentFrom (orderedItems) {
   const { sections, items } = orderedItems.reduce(createHierarchy, {})
   const document = {
     items,
@@ -81,7 +81,7 @@ function createDocumentFrom(orderedItems) {
   return document
 }
 
-function convertMarkdownToDocument(markdown) {
+function convertMarkdownToDocument (markdown) {
   const $ = markdownTo$(markdown)
 
   const items = $('h1, h2, h3, p, ul, li').toArray().map(el => {

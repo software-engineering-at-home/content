@@ -1,11 +1,13 @@
 const express = require('express')
 const fs = require('fs/promises')
+const path = require('path')
 const { name } = require('./package.json')
 const app = express()
 const port = 8080
 
 app.get('/content/', async (req, res) => {
-  const html = await fs.readFile(`${__dirname}/slides.html`, 'utf8')
+  const filepath = path.joinb(__dirname, 'slides.html')
+  const html = await fs.readFile(filepath, 'utf8')
   res.send(html)
 })
 

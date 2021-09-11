@@ -1,27 +1,27 @@
 const fs = require('fs/promises')
 
-function clone(obj) {
+function clone (obj) {
   return JSON.parse(JSON.stringify(obj))
 }
 
-async function extractArgs(model) {
-  const [command, file, folder, ...rest] = process.argv
+async function extractArgs (model) {
+  const [,, folder, ...rest] = process.argv
   return {
     folder,
     title: rest.join(' ') || 'No Title'
   }
 }
 
-async function saveHistory(model, history) {
+async function saveHistory (model, history) {
   await fs.writeFile('history.json', JSON.stringify(history, null, 2), 'utf8')
   return model
 }
 
-async function run(steps, startingModel) {
+async function run (steps, startingModel) {
   const history = []
   const stepList = Object.entries(steps)
   let nextState = clone(startingModel)
-  while(stepList.length > 0) {
+  while (stepList.length > 0) {
     const [stepName, stepFn] = stepList.shift()
     try {
       const state = clone(nextState)
