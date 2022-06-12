@@ -39,16 +39,16 @@
         <rect x="633" y="41" width="20" height="40" rx="10" ry="10" fill="#180f02" stroke="none" pointer-events="none"/>
         <ellipse cx="643" cy="41" rx="30" ry="30" fill="#69919b" stroke="none" pointer-events="none"/>
         <rect x="617.33" y="11" width="50" height="20" rx="10" ry="10" fill="#4e6366" stroke="none" pointer-events="none"/>
-        <path d="M 362.38 331 L 391.76 345.1 L 391.76 382.17 L 362.38 396.28 L 333 382.17 L 333 345.1 Z" fill="#eece61" stroke="#2a1b06" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 333 345.1 L 362.38 359.21 L 391.76 345.1 M 362.38 359.21 L 362.38 396.28" fill="none" stroke="#2a1b06" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
-        <ellipse cx="554.7" cy="361" rx="21.702696790841145" ry="21.702522986664036" fill="#eece61" stroke="#2a1b06" stroke-width="2" pointer-events="none"/>
-        <path d="M 533 361 L 576.41 361" fill="none" stroke="#2a1b06" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 243 338.02 C 243 326.02 293 326.02 293 338.02 L 293 383.97 C 293 395.97 243 395.97 243 383.97 Z" fill="#eece61" stroke="#2a1b06" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 243 338.02 C 243 347.02 293 347.02 293 338.02 M 243 342.52 C 243 351.52 293 351.52 293 342.52 M 243 347.02 C 243 356.02 293 356.02 293 347.02" fill="none" stroke="#2a1b06" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 462.37 331 L 491.75 345.1 L 491.75 382.17 L 462.37 396.28 L 433 382.17 L 433 345.1 Z" fill="#eece61" stroke="#2a1b06" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 433 345.1 L 462.37 359.21 L 491.75 345.1 M 462.37 359.21 L 462.37 396.28" fill="none" stroke="#2a1b06" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
-        <ellipse cx="174.7" cy="361" rx="21.702696790841145" ry="21.702522986664036" fill="#eece61" stroke="#2a1b06" stroke-width="2" pointer-events="none"/>
-        <path d="M 153 361 L 196.41 361" fill="none" stroke="#2a1b06" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 362.38 331 L 391.76 345.1 L 391.76 382.17 L 362.38 396.28 L 333 382.17 L 333 345.1 Z" fill="#eece61" stroke="#180f02" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 333 345.1 L 362.38 359.21 L 391.76 345.1 M 362.38 359.21 L 362.38 396.28" fill="none" stroke="#180f02" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="554.7" cy="361" rx="21.702696790841145" ry="21.702522986664036" fill="#eece61" stroke="#180f02" stroke-width="2" pointer-events="none"/>
+        <path d="M 533 361 L 576.41 361" fill="none" stroke="#180f02" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 243 338.02 C 243 326.02 293 326.02 293 338.02 L 293 383.97 C 293 395.97 243 395.97 243 383.97 Z" fill="#eece61" stroke="#180f02" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 243 338.02 C 243 347.02 293 347.02 293 338.02 M 243 342.52 C 243 351.52 293 351.52 293 342.52 M 243 347.02 C 243 356.02 293 356.02 293 347.02" fill="none" stroke="#180f02" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 462.37 331 L 491.75 345.1 L 491.75 382.17 L 462.37 396.28 L 433 382.17 L 433 345.1 Z" fill="#eece61" stroke="#180f02" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 433 345.1 L 462.37 359.21 L 491.75 345.1 M 462.37 359.21 L 462.37 396.28" fill="none" stroke="#180f02" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="174.7" cy="361" rx="21.702696790841145" ry="21.702522986664036" fill="#eece61" stroke="#180f02" stroke-width="2" pointer-events="none"/>
+        <path d="M 153 361 L 196.41 361" fill="none" stroke="#180f02" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
         <rect x="133" y="281" width="170" height="15" fill="#69919b" stroke="none" pointer-events="none"/>
         <rect x="343" y="281" width="80" height="15" fill="#69919b" stroke="none" pointer-events="none"/>
         <rect x="463" y="281" width="130" height="15" fill="#69919b" stroke="none" pointer-events="none"/>
@@ -86,12 +86,12 @@
         <rect x="583" y="64" width="25.15" height="37.73" rx="5.53" ry="5.53" fill="#4e6366" stroke="none" transform="rotate(-15,595.57,82.86)" pointer-events="none"/>
         <rect x="583" y="67" width="19.62" height="14.07" rx="3.1" ry="3.1" fill="#eece61" stroke="none" transform="rotate(-15,592.81,74.04)" pointer-events="none"/>
         <rect x="588" y="89" width="19.62" height="9.81" rx="2.16" ry="2.16" fill="#d4cec0" stroke="none" transform="rotate(-15,597.81,93.9)" pointer-events="none"/>
-        <rect x="589" y="84" width="14.34" height="4.15" rx="0.91" ry="0.91" fill="#2a1b06" stroke="none" transform="rotate(-15,596.17,86.07)" pointer-events="none"/>
+        <rect x="589" y="84" width="14.34" height="4.15" rx="0.91" ry="0.91" fill="#180f02" stroke="none" transform="rotate(-15,596.17,86.07)" pointer-events="none"/>
         <rect x="13" y="421" width="60" height="20" fill="#69919b" stroke="none" pointer-events="none"/>
         <rect x="653" y="421" width="60" height="20" fill="#69919b" stroke="none" pointer-events="none"/>
         <rect x="343" y="74" width="25.15" height="37.73" rx="5.53" ry="5.53" fill="#4e6366" stroke="none" transform="rotate(20,355.57,92.86)" pointer-events="none"/>
         <rect x="349" y="78" width="19.62" height="14.07" rx="3.1" ry="3.1" fill="#eece61" stroke="none" transform="rotate(20,358.81,85.04)" pointer-events="none"/>
         <rect x="342" y="98" width="19.62" height="9.81" rx="2.16" ry="2.16" fill="#d4cec0" stroke="none" transform="rotate(20,351.81,102.9)" pointer-events="none"/>
-        <rect x="347" y="94" width="14.34" height="4.15" rx="0.91" ry="0.91" fill="#2a1b06" stroke="none" transform="rotate(20,354.17,96.07)" pointer-events="none"/>
+        <rect x="347" y="94" width="14.34" height="4.15" rx="0.91" ry="0.91" fill="#180f02" stroke="none" transform="rotate(20,354.17,96.07)" pointer-events="none"/>
     </g>
 </svg>
