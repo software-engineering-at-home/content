@@ -1,10 +1,10 @@
 class: title, center, bottom
 
-# Channel Introduction for 2021
+# Channel Introduction
 
 ???
 
-This is the Software Engineering at Home Channel Introduction for 2021.
+This is the Software Engineering at Home channel introduction.
 
 This content is formatted for slides; to launch the viewer please follow this link:
 - https://software-engineering-at-home.github.io/content/slides.html?view=channel/000-Channel-Introduction.md
