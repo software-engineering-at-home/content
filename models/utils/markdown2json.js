@@ -3,7 +3,7 @@ const marked = require('marked')
 const cheerio = require('cheerio')
 
 function markdownTo$ (markdown) {
-  const html = marked(markdown)
+  const html = marked.parse(markdown)
   return cheerio.load(html)
 }
 
