@@ -47,7 +47,7 @@ Helping the audience understand the content available, and support the operation
 ### Topics
 
 - [Channel Introduction](./channel/000-Channel-Introduction.md)
-- [Topic Overview for 2021](./channel/001-Topic-Overview-for-2021.md)
+- [Topic Overview](./channel/001-Topic-Overview-for-2021.md)
 - ...
 
 ---

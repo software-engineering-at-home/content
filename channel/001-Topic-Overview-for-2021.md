@@ -1,14 +1,14 @@
 
 class: title, center, bottom
 
-# Topic Overview for 2021
+# Topic Overview
 
 ???
 
 This content is formatted for slides; to launch the viewer please follow this link:
 - https://software-engineering-at-home.github.io/content/slides.html?view=channel/001-Topic-Overview-for-2021.md
 
-Welcome to the Software Engineering at Home - Topic Overview for 2021.
+Welcome to the Software Engineering at Home - Topic Overview.
 
 ---
 
