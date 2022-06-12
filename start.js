@@ -6,7 +6,7 @@ const app = express()
 const port = 8080
 
 app.get('/content/', async (req, res) => {
-  const filepath = path.joinb(__dirname, 'slides.html')
+  const filepath = path.join(__dirname, 'slides.html')
   const html = await fs.readFile(filepath, 'utf8')
   res.send(html)
 })
