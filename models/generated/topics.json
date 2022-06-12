@@ -4,7 +4,7 @@
   ],
   "sections": [
     {
-      "title": "Topics",
+      "title": "Learning Topics",
       "items": [
         "Discover the breadth and depth of content available through Software Engineering at Home.",
         "???",
@@ -16,26 +16,26 @@
       ]
     },
     {
-      "title": "Topic Index",
+      "title": "📚 Topic Index",
       "items": [
         "General content:",
         [
-          "Channel Overview, or skip to Where next?"
+          "📺 Channel Overview, or skip to ⏭️ Where next?"
         ],
         "Content topics are grouped into specialisms:",
         [
-          "Agile Delivery Practices",
-          "Architecture",
-          "Cloud Based Infrastructure",
-          "Computer Science",
-          "Monitoring and Alerts",
-          "Organisational Structures",
-          "Programming",
-          "Programming Languages",
-          "Service Design",
-          "Software Delivery Lifecycle",
-          "Software Testing",
-          "Team Building"
+          "🏃 Agile Delivery Practices",
+          "📐 Architecture",
+          "☁️ Cloud Based Infrastructure",
+          "🖥️ Computer Science",
+          "🔎 Monitoring and Alerts",
+          "🏡 Organisational Structures",
+          "⌨️ Programming",
+          "🔣 Programming Languages",
+          "🛎️ Service Design",
+          "🌱 Software Delivery Lifecycle",
+          "🧪 Software Testing",
+          "🚧 Team Building"
         ],
         "???",
         "As content is written, edited, and produced - this index will grow to be filled out with links helping the audience find content. New specialisms can be added as needed to the list above, and then populated in the sub-sections below.",
@@ -43,30 +43,32 @@
       ]
     },
     {
-      "title": "Channel Overview",
+      "title": "📺 Channel Overview",
       "items": [
         "Helping the audience understand the content available, and support the operation of the YouTube channel, including introductions, annoucements, updates, and the like."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
-          "Channel Introduction",
-          "Topic Overview",
+          "📙 Channel Introduction",
+          "📘 Topic Overview",
+          "✏️ Writing Guide",
+          "📝 Writing Template",
           "..."
         ],
         "name: agile-delivery-practices"
       ]
     },
     {
-      "title": "Agile Delivery Practices",
+      "title": "🏃 Agile Delivery Practices",
       "items": [
         "Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Scrum",
@@ -85,13 +87,13 @@
       ]
     },
     {
-      "title": "Architecture",
+      "title": "📐 Architecture",
       "items": [
         "Ways of assesssing, structuring, and designing software so that programs (no matter how large, or small) can be made simple, or simpler from chaotic, complex, or complicated forms."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Architecture for programmers",
@@ -104,13 +106,13 @@
       ]
     },
     {
-      "title": "Cloud Based Infrastructure",
+      "title": "☁️ Cloud Based Infrastructure",
       "items": [
         "Use of services hosted on the internet to build software systems; instead of trying to roll and manage physical hardware and managing operating systems."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "AWS",
@@ -124,13 +126,13 @@
       ]
     },
     {
-      "title": "Computer Science",
+      "title": "🖥️ Computer Science",
       "items": [
         "Where maths and electronics meet; computer science emerges; there are a huge number of relevant topics in computer science that can be applied to programming and software engineer."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Algorithms",
@@ -147,13 +149,13 @@
       ]
     },
     {
-      "title": "Monitoring and Alerts",
+      "title": "🔎 Monitoring and Alerts",
       "items": [
         "Good feedback loops are formed by watching the software system you're interacting with - monitoring and alerting are two ways which you can gain a live understanding of your system."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Why monitor",
@@ -172,13 +174,13 @@
       ]
     },
     {
-      "title": "Organisational Structures",
+      "title": "🏡 Organisational Structures",
       "items": [
         "Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "The org chart",
@@ -192,13 +194,13 @@
       ]
     },
     {
-      "title": "Programming",
+      "title": "⌨️ Programming",
       "items": [
         "Programming is a vast field of a approaches which explores how we interact with computers through code; everything from abstract symbol manipulation, data structures, APIs, algorithms, linting, and code quality."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Callbacks, Promises, and Async await",
@@ -218,13 +220,13 @@
       ]
     },
     {
-      "title": "Programming Languages",
+      "title": "🔣 Programming Languages",
       "items": [
         "Specific topics related to named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           ".NET basics",
@@ -240,13 +242,13 @@
       ]
     },
     {
-      "title": "Software Delivery Lifecycle",
+      "title": "🌱 Software Delivery Lifecycle",
       "items": [
         "The process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "There is an infinite amount of value to be created",
@@ -262,42 +264,17 @@
           "Non-functional requirements",
           "..."
         ],
-        "name: team-building"
-      ]
-    },
-    {
-      "title": "Team Building",
-      "items": [
-        "How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems."
-      ]
-    },
-    {
-      "title": "Topics",
-      "items": [
-        [
-          "Learning by Numbers",
-          "Vision and Goals",
-          "Quarterly objectives and key results (OKRs)",
-          "Strategy vs Tactics",
-          "Camaraderie / Comradery",
-          "Team Branding",
-          "Psychological Safety",
-          "Fun things",
-          "Team health",
-          "Roles and responsibilities",
-          "..."
-        ],
         "name: software-testing"
       ]
     },
     {
-      "title": "Software Testing",
+      "title": "🧪 Software Testing",
       "items": [
         "Validating that software is correct is a large and complex field; the more time you spend on it, the more issues you can find - automation is important, but so is test strategy, and resource allocation."
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Why test?",
@@ -317,13 +294,13 @@
       ]
     },
     {
-      "title": "Service Design",
+      "title": "🛎️ Service Design",
       "items": [
         "Next level software development is about services; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?"
       ]
     },
     {
-      "title": "Topics",
+      "title": "In this section",
       "items": [
         [
           "Products vs Services",
@@ -334,11 +311,36 @@
           "Measuring the success of a service",
           "..."
         ],
+        "name: team-building"
+      ]
+    },
+    {
+      "title": "🚧 Team Building",
+      "items": [
+        "How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems."
+      ]
+    },
+    {
+      "title": "In this section",
+      "items": [
+        [
+          "🔢 Learning by Numbers",
+          "Vision and Goals",
+          "Quarterly objectives and key results (OKRs)",
+          "Strategy vs Tactics",
+          "Camaraderie / Comradery",
+          "Team Branding",
+          "Psychological Safety",
+          "Fun things",
+          "Team health",
+          "Roles and responsibilities",
+          "..."
+        ],
         "class: conclusion\nname: where-next"
       ]
     },
     {
-      "title": "Where next?",
+      "title": "⏭️ Where next?",
       "items": [
         "Well done for making it to the end... things you can do next:",
         [
