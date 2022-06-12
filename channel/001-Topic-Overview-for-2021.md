@@ -252,3 +252,11 @@ If you've not already, check out the channel introduction for a brief hello from
 Finally, please let me know in the comments which topics you're most interested in - and that will help me prioritise content.
 
 I hope you keep an open mind, and be kind to each other.
+
+---
+
+class: conclusion
+
+## ⏭️ Where next?
+
+You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

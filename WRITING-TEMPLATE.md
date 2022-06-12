@@ -37,4 +37,4 @@ class: conclusion
 
 ## Where next?
 
-You probably want to go back to the [📚 Topic Index](./TOPICS.md) !
+You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

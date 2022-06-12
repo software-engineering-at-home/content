@@ -262,3 +262,11 @@ Making a plan is easy; and for simple skills you might only need a few days to b
 - ☑️ Explain the story - explain how the story links back to the premise
 - ☑️ Extract the value - identify the keys points from the story that explain the topic
 - ☑️ Practical advice - add personal advice and guidance on top of the story
+
+---
+
+class: conclusion
+
+## ⏭️ Where next?
+
+You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

@@ -1,8 +1,8 @@
 class: title, center, bottom
 
-# Learning Topics
+# Topic Index
 
-Discover the breadth and depth of content available through Software Engineering at Home.
+Discover the breadth and depth of content available through Software Engineering at Home. Find all our topics grouped into specialisms.
 
 ???
 
@@ -13,7 +13,7 @@ This content is formatted for slides; to launch the viewer please follow this li
 
 class: intro
 
-## 📚 Topic Index
+## 📚 Learning topics
 
 General content:
 - 📺 [Channel Overview](#channel-overview), or skip to ⏭️ [Where next?](#where-next)
@@ -313,3 +313,7 @@ Well done for making it to the end... things you can do next:
 Good luck for the year ahead, I hope you learn lots~
 
 ~keep an open mind; be kind and patient with each other.
+
+### 🗺️ Thanks, but I might be lost!
+
+You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !
