@@ -18,11 +18,11 @@ class: intro
 
 ## So you want to be an expert?
 
-When joining a team; it is rarely made explicit what skills and knowledge your colleagues have. People do brief introductions about their time at a company, their previous experience, and their current focus. These introductions set the scene for who your colleagues might be, but very rarely do people get into the grit of what people actually know.
+When joining a team; it is rarely made explicit what skills and knowledge your co-workers have. People do brief introductions about their time at a company, their previous experience, and their current focus. These introductions set the scene for who your colleagues might be, but very rarely do you find out what people actually know.
 
-Additionally, it is hard to guage how experienced people are across a range of tasks. An engineer who's been working for 20 years might not know about basic linux networking commands such as `dig` because they've been working on windows machines, or might have no understanding of how the .NET interpreter works in comparison to a JVM because they've been working in C++, Rust, and Go.
+In addition to the briefest of introductions, it is hard to guage how experienced people are across a range of tasks. An engineer who's been working for 20 years might not know about basic Linux networking commands such as `dig` because they've been working on Windows operating systems. Or perhaps a programmer has no understanding of how the .NET interpreter works in comparison to a JVM because they've been working in C++, Rust, and Go.
 
-The 5 stage learning model presented in this topic provides a transparent framework for scoring knowledge consistently across a team, allowing a team lead to quickly identify skill gaps, and provide a practical training plan for the team.
+The 5 stage learning model presented in this topic provides a transparent framework for scoring knowledge consistently across a team, allowing a team lead to quickly identify skill gaps, and create a practical training plan for the team.
  
 ---
 
@@ -31,15 +31,19 @@ The 5 stage learning model presented in this topic provides a transparent framew
 
 The model used here has five stages:
 
-1. Awareness
-2. Research
-3. Usage
-4. Practiced
-5. Teaching
+1. 🧩 Awareness
+2. 🔬 Research
+3. 🏃 Usage
+4. 🏋️ Practiced
+5. 👩‍🏫 Teaching
 
 The model is designed to be easy to grade using a series of yes/no questions, whilst implying exponential knowledge and experience to advance upwards along the scale.
 
 By producing a simple number multiple skills can be quickly graded and stored in a spreadsheet or training plan.
+
+| Topic | 1 | 2 | 3 | 4 | 5 |
+| - | - | - | - | - | - |
+| Learning by Numbers | 🧩 | ⬛ | ⬛ | ⬛ | ⬛ |
 
 ???
 
@@ -50,12 +54,12 @@ By producing a simple number multiple skills can be quickly graded and stored in
 With the model in mind; the basic question becomes: "How experienced are you with X?" where "X" is the skill being graded. 
 
 Some examples:
-- How experienced are you with cooking?
-- How experienced are you with baking bread?
-- How experiecned are you with swimming?
-- How experienced are you with C++?
-- How experienced are you with painting?
-- How experienced are you with oil painting on silk canvas?
+- 🍳 How experienced are you with cooking?
+- 🍞 How experienced are you with baking bread?
+- 🏊 How experiecned are you with swimming?
+- 💾 How experienced are you with C++?
+- 🎨 How experienced are you with painting?
+- 🖼️ How experienced are you with oil painting on silk canvas?
 
 Not all skills are equal, general skills tend to be a lot more common, although the results and quality will differ. You might be able to teach someone to cook a passable meal, but have never tried to bake bread, even though baking bread requires many of the basic cooking skills. I can teach a child to paint using brushes and water colours, but I've never used oil paints on a silk canvas. 
 

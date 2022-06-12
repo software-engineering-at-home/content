@@ -1,6 +1,6 @@
 class: title, center, bottom
 
-# Topics
+# Learning Topics
 
 Discover the breadth and depth of content available through Software Engineering at Home.
 
@@ -13,24 +13,24 @@ This content is formatted for slides; to launch the viewer please follow this li
 
 class: intro
 
-## Topic Index
+## 📚 Topic Index
 
 General content:
-- [Channel Overview](#channel-overview), or skip to [Where next?](#where-next)
+- 📺 [Channel Overview](#channel-overview), or skip to ⏭️ [Where next?](#where-next)
 
 Content topics are grouped into specialisms:
-- [Agile Delivery Practices](#agile-delivery-practices)
-- [Architecture](#architecture)
-- [Cloud Based Infrastructure](#cloud-based-infrastructure)
-- [Computer Science](#computer-science)
-- [Monitoring and Alerts](#monitoring-and-alerts)
-- [Organisational Structures](#Organisational-structures)
-- [Programming](#programming)
-- [Programming Languages](#programming-languages)
-- [Service Design](#service-design)
-- [Software Delivery Lifecycle](#software-delivery-lifecycle)
-- [Software Testing](#software-testing)
-- [Team Building](#team-building)
+- 🏃 [Agile Delivery Practices](#agile-delivery-practices)
+- 📐 [Architecture](#architecture)
+- ☁️ [Cloud Based Infrastructure](#cloud-based-infrastructure)
+- 🖥️ [Computer Science](#computer-science)
+- 🔎 [Monitoring and Alerts](#monitoring-and-alerts)
+- 🏡 [Organisational Structures](#organisational-structures)
+- ⌨️ [Programming](#programming)
+- 🔣 [Programming Languages](#programming-languages)
+- 🛎️ [Service Design](#service-design)
+- 🌱 [Software Delivery Lifecycle](#software-delivery-lifecycle)
+- 🧪 [Software Testing](#software-testing)
+- 🚧 [Team Building](#team-building)
 
 ???
 
@@ -40,25 +40,27 @@ As content is written, edited, and produced - this index will grow to be filled 
 
 name: channel-overview
 
-## Channel Overview
+## 📺 Channel Overview
 
 Helping the audience understand the content available, and support the operation of the YouTube channel, including introductions, annoucements, updates, and the like.
 
-### Topics
+### In this section
 
-- [Channel Introduction](./channel/000-Channel-Introduction.md)
-- [Topic Overview](./channel/001-Topic-Overview-for-2021.md)
+- 📙 [Channel Introduction](./channel/000-Channel-Introduction.md)
+- 📘 [Topic Overview](./channel/001-Topic-Overview-for-2021.md)
+- ✏️ [Writing Guide](./WRITING-GUIDE.md)
+- 📝 [Writing Template](./WRITING-TEMPLATE.md)
 - ...
 
 ---
 
 name: agile-delivery-practices
 
-## Agile Delivery Practices
+## 🏃 Agile Delivery Practices
 
 Ways of working; processess and practices that would be considered agile, and how the delivery function supports product, business analysts, programmers, testers, and other roles in a large organisation.
 
-### Topics
+### In this section
 
 - Scrum
 - Kanban
@@ -76,11 +78,11 @@ Ways of working; processess and practices that would be considered agile, and ho
 
 name: architecture
 
-## Architecture
+## 📐 Architecture
 
 Ways of assesssing, structuring, and designing software so that programs (no matter how large, or small) can be made simple, or simpler from chaotic, complex, or complicated forms.
 
-### Topics
+### In this section
 
 - Architecture for programmers
 - Drawing diagrams
@@ -92,11 +94,11 @@ Ways of assesssing, structuring, and designing software so that programs (no mat
 
 name: cloud-based-infrastructure
 
-## Cloud Based Infrastructure
+## ☁️ Cloud Based Infrastructure
 
 Use of services hosted on the internet to build software systems; instead of trying to roll and manage physical hardware and managing operating systems.
 
-### Topics
+### In this section
 
 - AWS
 - Google Cloud
@@ -109,11 +111,11 @@ Use of services hosted on the internet to build software systems; instead of try
 
 name: computer-science
 
-## Computer Science
+## 🖥️ Computer Science
 
 Where maths and electronics meet; computer science emerges; there are a huge number of relevant topics in computer science that can be applied to programming and software engineer.
 
-### Topics
+### In this section
 
 - Algorithms
 - Data Structures
@@ -129,11 +131,11 @@ Where maths and electronics meet; computer science emerges; there are a huge num
 
 name: monitoring-and-alerts
 
-## Monitoring and Alerts
+## 🔎 Monitoring and Alerts
 
 Good feedback loops are formed by watching the software system you're interacting with - monitoring and alerting are two ways which you can gain a live understanding of your system.
 
-### Topics
+### In this section
 
 - Why monitor
 - Why setup alerts
@@ -151,11 +153,11 @@ Good feedback loops are formed by watching the software system you're interactin
 
 name: Organisational-structures
 
-## Organisational Structures 
+## 🏡 Organisational Structures 
 
 Organizations structure themselves in different ways to get the most out of their employees; here we'll talk about different org structures and reflect on how to use that knowledge in your day to day life.
 
-### Topics
+### In this section
 
 - The org chart
 - Line of reporting
@@ -168,11 +170,11 @@ Organizations structure themselves in different ways to get the most out of thei
 
 name: programming
 
-## Programming
+## ⌨️ Programming
 
 Programming is a vast field of a approaches which explores how we interact with computers through code; everything from abstract symbol manipulation, data structures, APIs, algorithms, linting, and code quality. 
 
-### Topics
+### In this section
 
 - Callbacks, Promises, and Async await
 - Program structure
@@ -191,11 +193,11 @@ Programming is a vast field of a approaches which explores how we interact with 
 
 name: programming-languages
 
-## Programming Languages
+## 🔣 Programming Languages
 
 Specific topics related to named programming languages; for example how to get started, what the prerequisites are, what integrated development environments (IDEs) are available, and matching test frameworks to use.
  
-### Topics
+### In this section
 
 - .NET basics
 - Bash basics
@@ -210,11 +212,11 @@ Specific topics related to named programming languages; for example how to get s
 
 name: software-delivery-lifecycle
 
-## Software Delivery Lifecycle
+## 🌱 Software Delivery Lifecycle
 
 The process of releasing value - from code to working software, integrating real world user feedback, and improving the value proposition of a code base while managing technical debt.
 
-### Topics
+### In this section
 
 - There is an infinite amount of value to be created
 - Continuous Integration
@@ -231,35 +233,13 @@ The process of releasing value - from code to working software, integrating real
 
 ---
 
-name: team-building
-
-## Team Building
-
-How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems. 
-
-### Topics
-
-- [Learning by Numbers](./team-building/000-Learning-by-Numbers.md)
-- Vision and Goals
-- Quarterly objectives and key results (OKRs)
-- Strategy vs Tactics
-- Camaraderie / Comradery
-- Team Branding
-- Psychological Safety
-- Fun things
-- Team health
-- Roles and responsibilities
-- ...
-
----
-
 name: software-testing
 
-## Software Testing
+## 🧪 Software Testing
 
 Validating that software is correct is a large and complex field; the more time you spend on it, the more issues you can find - automation is important, but so is test strategy, and resource allocation.
 
-### Topics
+### In this section
 
 - Why test?
 - Unit testing
@@ -278,11 +258,11 @@ Validating that software is correct is a large and complex field; the more time 
 
 name: service-design
 
-## Service Design
+## 🛎️ Service Design
 
 Next level software development is about services; products are built and sold, but services are timely and ongoing. How does service based design influence how we approach software engineering?
 
-### Topics
+### In this section
 
 - Products vs Services
 - Good Services
@@ -294,10 +274,32 @@ Next level software development is about services; products are built and sold, 
 
 ---
 
+name: team-building
+
+## 🚧 Team Building
+
+How do you negotiate with others to bring a group of people together to share a common goal? What distractions do people face? Team building is an important aspect of supporting and maintaining large software systems. 
+
+### In this section
+
+- 🔢 [Learning by Numbers](./team-building/000-Learning-by-Numbers.md)
+- Vision and Goals
+- Quarterly objectives and key results (OKRs)
+- Strategy vs Tactics
+- Camaraderie / Comradery
+- Team Branding
+- Psychological Safety
+- Fun things
+- Team health
+- Roles and responsibilities
+- ...
+
+---
+
 class: conclusion
 name: where-next
 
-## Where next?
+## ⏭️ Where next?
 
 Well done for making it to the end... things you can do next:
 
