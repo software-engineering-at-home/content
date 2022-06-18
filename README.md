@@ -4,7 +4,7 @@
 
 ### Why
 
-Content to teach the world about software, programming, and engineering topics of interest.
+Content to teach the world about software, programming, and engineering topics of interest - to engage with excellence and the distribution of great ideas.
 
 ### How
 
