@@ -156,6 +156,6 @@ I'm still working on tag lines, but for now- keep an open mind, and be kind to e
 
 class: conclusion
 
-## ⏭️ Where next?
+## 🗺️ Where next?
 
 You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

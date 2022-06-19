@@ -267,6 +267,6 @@ Making a plan is easy; and for simple skills you might only need a few days to b
 
 class: conclusion
 
-## ⏭️ Where next?
+## 🗺️ Where next?
 
 You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

@@ -257,6 +257,6 @@ I hope you keep an open mind, and be kind to each other.
 
 class: conclusion
 
-## ⏭️ Where next?
+## 🗺️ Where next?
 
 You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

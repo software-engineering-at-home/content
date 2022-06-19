@@ -35,6 +35,6 @@ class: conclusion
 - ☑️ Repeat the presmise, the key points, and the practical advice to close out the video
 - ☑️ Like, subscribe, and share - support on patreon 
 
-## Where next?
+## 🗺️ Where next?
 
 You probably want to go back to the 📚 [Topic Index](./TOPICS.md) !

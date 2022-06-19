@@ -299,7 +299,7 @@ How do you negotiate with others to bring a group of people together to share a 
 class: conclusion
 name: where-next
 
-## ⏭️ Where next?
+## 🗺️ Where next?
 
 Well done for making it to the end... things you can do next:
 
